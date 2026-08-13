@@ -108,7 +108,7 @@
                 "last_commit": "2019-10-25T09:05:41Z",
                 "owner": "zijundeng",
                 "repo": "pytorch-semantic-segmentation",
-                "stars": 1736
+                "stars": 1735
               }
             },
             {
@@ -269,7 +269,7 @@
                 "last_commit": "2019-10-25T09:05:41Z",
                 "owner": "zijundeng",
                 "repo": "pytorch-semantic-segmentation",
-                "stars": 1736
+                "stars": 1735
               }
             },
             {
@@ -731,7 +731,7 @@
                 "last_commit": "2019-10-25T09:05:41Z",
                 "owner": "zijundeng",
                 "repo": "pytorch-semantic-segmentation",
-                "stars": 1736
+                "stars": 1735
               }
             },
             {
@@ -1438,7 +1438,7 @@
                 "last_commit": "2019-10-25T09:05:41Z",
                 "owner": "zijundeng",
                 "repo": "pytorch-semantic-segmentation",
-                "stars": 1736
+                "stars": 1735
               }
             },
             {
@@ -1669,7 +1669,7 @@
                 "last_commit": "2019-10-25T09:05:41Z",
                 "owner": "zijundeng",
                 "repo": "pytorch-semantic-segmentation",
-                "stars": 1736
+                "stars": 1735
               }
             },
             {
@@ -1739,7 +1739,7 @@
                 "last_commit": "2019-10-25T09:05:41Z",
                 "owner": "zijundeng",
                 "repo": "pytorch-semantic-segmentation",
-                "stars": 1736
+                "stars": 1735
               }
             },
             {
@@ -3330,7 +3330,7 @@
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18393
+            "stars": 18395
           }
         },
         {
@@ -3375,7 +3375,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:42:59Z",
+            "last_commit": "2026-08-13T07:19:50Z",
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
             "stars": 11690
@@ -3392,7 +3392,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9911
+            "stars": 9913
           }
         },
         {
@@ -3518,7 +3518,7 @@
             "last_commit": "2019-10-25T09:05:41Z",
             "owner": "zijundeng",
             "repo": "pytorch-semantic-segmentation",
-            "stars": 1736
+            "stars": 1735
           }
         },
         {
@@ -3647,7 +3647,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:21:43Z",
+            "last_commit": "2026-08-13T08:00:03Z",
             "owner": "cvat-ai",
             "repo": "cvat",
             "stars": 16507
@@ -3664,7 +3664,7 @@
             "last_commit": "2026-08-08T02:53:11Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16099
+            "stars": 16098
           }
         },
         {
@@ -4916,7 +4916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:21:22.770Z",
+    "last_updated": "2026-08-13T08:03:41.860Z",
     "original_repository": "mrgloom/awesome-semantic-segmentation",
     "original_repository_sha": "9278d7ab0ddc581c577c8e147e5f5d6e060c00f8",
     "enhanced_repository": "enhansome/enhansome-semantic-segmentation",
