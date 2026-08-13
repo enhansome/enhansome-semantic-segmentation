@@ -1,0 +1,4926 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Networks by architecture"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "U-Net [https://arxiv.org/pdf/1505.04597.pdf",
+          "description": "] [2015]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/zhixuhao/unet",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-27T03:48:07Z",
+                "owner": "zhixuhao",
+                "repo": "unet",
+                "stars": 4940
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/qubvel/segmentation_models",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-21T11:16:16Z",
+                "owner": "qubvel",
+                "repo": "segmentation_models",
+                "stars": 4927
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/LeeJunHyun/Image_Segmentation#u-net",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-30T05:20:58Z",
+                "owner": "LeeJunHyun",
+                "repo": "Image_Segmentation",
+                "stars": 3106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/divamgupta/image-segmentation-keras",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-12T08:11:21Z",
+                "owner": "divamgupta",
+                "repo": "image-segmentation-keras",
+                "stars": 3004
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/jakeret/tf_unet",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-05-05T09:29:55Z",
+                "owner": "jakeret",
+                "repo": "tf_unet",
+                "stars": 1907
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/yassouali/pytorch_segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-02-23T19:05:28Z",
+                "owner": "yassouali",
+                "repo": "pytorch-segmentation",
+                "stars": 1817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-10-25T09:05:41Z",
+                "owner": "zijundeng",
+                "repo": "pytorch-semantic-segmentation",
+                "stars": 1736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/orobix/retina-unet",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-09-08T16:41:42Z",
+                "owner": "orobix",
+                "repo": "retina-unet",
+                "stars": 1352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ternaus/TernausNet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-10-26T02:20:58Z",
+                "owner": "ternaus",
+                "repo": "TernausNet",
+                "stars": 1063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/jocicmarko/ultrasound-nerve-segmentation",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-10-11T17:58:13Z",
+                "owner": "jocicmarko",
+                "repo": "ultrasound-nerve-segmentation",
+                "stars": 944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/akirasosa/mobile-semantic-segmentation",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-12-08T07:37:05Z",
+                "owner": "akirasosa",
+                "repo": "mobile-semantic-segmentation",
+                "stars": 721
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/yihui-he/u-net",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-02T06:39:21Z",
+                "owner": "ethanhe42",
+                "repo": "u-net",
+                "stars": 450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-09-20T22:07:19Z",
+                "owner": "ZFTurbo",
+                "repo": "ZF_UNET_224_Pretrained_Model",
+                "stars": 217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/EdwardTyantov/ultrasound-nerve-segmentation",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-06-29T11:24:44Z",
+                "owner": "EdwardTyantov",
+                "repo": "ultrasound-nerve-segmentation",
+                "stars": 181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/qureai/ultrasound-nerve-segmentation-using-torchnet",
+              "description": "[Torch]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Lua",
+                "last_commit": "2016-08-02T08:02:57Z",
+                "owner": "qureai",
+                "repo": "ultrasound-nerve-segmentation-using-torchnet",
+                "stars": 48
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SegNet [https://arxiv.org/pdf/1511.00561.pdf",
+          "description": "] [2016]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/divamgupta/image-segmentation-keras",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-12T08:11:21Z",
+                "owner": "divamgupta",
+                "repo": "image-segmentation-keras",
+                "stars": 3004
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/yassouali/pytorch_segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-02-23T19:05:28Z",
+                "owner": "yassouali",
+                "repo": "pytorch-segmentation",
+                "stars": 1817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-10-25T09:05:41Z",
+                "owner": "zijundeng",
+                "repo": "pytorch-semantic-segmentation",
+                "stars": 1736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/chainer/chainercv/tree/master/examples/segnet",
+              "description": "[Chainer]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2021-07-01T16:54:50Z",
+                "owner": "chainer",
+                "repo": "chainercv",
+                "stars": 1482
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/alexgkendall/caffe-segnet",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2018-03-15T08:10:01Z",
+                "owner": "alexgkendall",
+                "repo": "caffe-segnet",
+                "stars": 1083
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/tkuanlun350/Tensorflow-SegNet",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-11-03T15:06:56Z",
+                "owner": "tkuanlun350",
+                "repo": "Tensorflow-SegNet",
+                "stars": 368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/preddy5/segnet",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-03-28T09:08:40Z",
+                "owner": "preddy5",
+                "repo": "segnet",
+                "stars": 205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/imlab-uiip/keras-segnet",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-03-06T21:32:39Z",
+                "owner": "imlab-uiip",
+                "repo": "keras-segnet",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ykamikawa/keras-SegNet",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-05-28T14:55:43Z",
+                "owner": "ykamikawa",
+                "repo": "tf-keras-SegNet",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ykamikawa/tf-keras-SegNet",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-05-28T14:55:43Z",
+                "owner": "ykamikawa",
+                "repo": "tf-keras-SegNet",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/0bserver07/Keras-SegNet-Basic",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2016-12-23T02:17:07Z",
+                "owner": "0bserver07",
+                "repo": "Keras-SegNet-Basic",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/andreaazzini/segnet",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-02-27T11:18:39Z",
+                "owner": "andreaazzini",
+                "repo": "segnet.tf",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/developmentseed/caffe/tree/segnet-multi-gpu",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2018-04-19T19:05:15Z",
+                "owner": "developmentseed",
+                "repo": "caffe",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/fedor-chervinskii/segnet-torch",
+              "description": "[Torch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2016-07-26T16:47:49Z",
+                "owner": "fedor-chervinskii",
+                "repo": "segnet-torch",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DeepLab [https://arxiv.org/pdf/1606.00915.pdf",
+          "description": "] [2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/tensorflow/models/tree/master/research/deeplab",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T00:05:23Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77660
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/msracver/Deformable-ConvNets/tree/master/deeplab",
+              "description": "[MXNet]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-09-27T01:43:43Z",
+                "owner": "msracver",
+                "repo": "Deformable-ConvNets",
+                "stars": 4119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/youansheng/torchcv",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2020-11-19T05:40:57Z",
+                "owner": "donnyyou",
+                "repo": "torchcv",
+                "stars": 2251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/yassouali/pytorch_segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-02-23T19:05:28Z",
+                "owner": "yassouali",
+                "repo": "pytorch-segmentation",
+                "stars": 1817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/bonlime/keras-deeplab-v3-plus",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-13T21:31:06Z",
+                "owner": "bonlime",
+                "repo": "keras-deeplab-v3-plus",
+                "stars": 1375
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/DrSleep/tensorflow-deeplab-resnet",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2021-10-11T04:52:36Z",
+                "owner": "DrSleep",
+                "repo": "tensorflow-deeplab-resnet",
+                "stars": 1258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/kazuto1011/deeplab-pytorch",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-10-14T18:30:23Z",
+                "owner": "kazuto1011",
+                "repo": "deeplab-pytorch",
+                "stars": 1100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/speedinghzl/pytorch-segmentation-toolbox",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-02-20T15:53:52Z",
+                "owner": "speedinghzl",
+                "repo": "pytorch-segmentation-toolbox",
+                "stars": 778
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/isht7/pytorch-deeplab-resnet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-09-05T07:32:57Z",
+                "owner": "isht7",
+                "repo": "pytorch-deeplab-resnet",
+                "stars": 601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hualin95/Deeplab-v3plus",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-10-03T22:37:06Z",
+                "owner": "hualin95",
+                "repo": "Deeplab-v3plus",
+                "stars": 338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/TheLegendAli/DeepLab-Context",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2016-09-16T19:01:30Z",
+                "owner": "TheLegendAli",
+                "repo": "DeepLab-Context",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/martinkersner/train-DeepLab",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-02-19T04:17:07Z",
+                "owner": "martinkersner",
+                "repo": "train-DeepLab",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/bermanmaxim/jaccardSegment",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-05-26T09:00:27Z",
+                "owner": "bermanmaxim",
+                "repo": "jaccardSegment",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/chenxi116/TF-deeplab",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-08-17T23:09:50Z",
+                "owner": "chenxi116",
+                "repo": "TF-deeplab",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/muyang0320/tensorflow-deeplab-resnet-crf",
+              "description": "[TensorFlow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-10-12T07:23:26Z",
+                "owner": "muyang0320",
+                "repo": "tensorflow-deeplab-resnet-crf",
+                "stars": 18
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FCN [https://arxiv.org/pdf/1605.06211.pdf",
+          "description": "] [2016]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/apache/incubator-mxnet/tree/master/example/fcn-xs",
+              "description": "[MxNet]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C++",
+                "last_commit": "2023-10-25T21:28:33Z",
+                "owner": "apache",
+                "repo": "mxnet",
+                "stars": 20812
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/shelhamer/fcn.berkeleyvision.org",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-09-27T10:14:15Z",
+                "owner": "shelhamer",
+                "repo": "fcn.berkeleyvision.org",
+                "stars": 3350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/divamgupta/image-segmentation-keras",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-05-12T08:11:21Z",
+                "owner": "divamgupta",
+                "repo": "image-segmentation-keras",
+                "stars": 3004
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/yassouali/pytorch_segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-02-23T19:05:28Z",
+                "owner": "yassouali",
+                "repo": "pytorch-segmentation",
+                "stars": 1817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/wkentaro/pytorch-fcn",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2023-02-05T15:40:40Z",
+                "owner": "wkentaro",
+                "repo": "pytorch-fcn",
+                "stars": 1777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-10-25T09:05:41Z",
+                "owner": "zijundeng",
+                "repo": "pytorch-semantic-segmentation",
+                "stars": 1736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/shekkizh/FCN.tensorflow",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-03-17T18:05:54Z",
+                "owner": "shekkizh",
+                "repo": "FCN.tensorflow",
+                "stars": 1248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/MarvinTeichmann/tensorflow-fcn",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-12-15T15:43:15Z",
+                "owner": "MarvinTeichmann",
+                "repo": "tensorflow-fcn",
+                "stars": 1094
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/aurora95/Keras-FCN",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-01-25T21:01:19Z",
+                "owner": "aurora95",
+                "repo": "Keras-FCN",
+                "stars": 648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ycszen/pytorch-seg",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2019-07-19T01:56:11Z",
+                "owner": "yu-changqian",
+                "repo": "pytorch-segmentation",
+                "stars": 413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/wkentaro/fcn",
+              "description": "[Chainer]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-10-06T19:49:23Z",
+                "owner": "wkentaro",
+                "repo": "fcn",
+                "stars": 215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/JihongJu/keras-fcn",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-07-28T12:28:22Z",
+                "owner": "JihongJu",
+                "repo": "keras-fcn",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Kaixhin/FCN-semantic-segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-09-10T08:16:46Z",
+                "owner": "Kaixhin",
+                "repo": "FCN-semantic-segmentation",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/vlfeat/matconvnet-fcn",
+              "description": "[MatConvNet]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Matlab",
+                "last_commit": "2016-01-22T20:17:55Z",
+                "owner": "vlfeat",
+                "repo": "matconvnet-fcn",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/mzaradzki/neuralnets/tree/master/vgg_segmentation_keras",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-09-06T06:26:30Z",
+                "owner": "mzaradzki",
+                "repo": "neuralnets",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hellochick/semantic-segmentation-tensorflow",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-04-03T04:09:49Z",
+                "owner": "hellochick",
+                "repo": "semantic-segmentation-tensorflow",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/pierluigiferrari/fcn8s_tensorflow",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-02-13T06:33:46Z",
+                "owner": "pierluigiferrari",
+                "repo": "fcn8s_tensorflow",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/k3nt0w/FCN_via_keras",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-02-24T14:46:19Z",
+                "owner": "k3nt0w",
+                "repo": "FCN_via_keras",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/simonguist/testing-fcn-for-cityscapes",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-01-04T18:49:30Z",
+                "owner": "simonguist",
+                "repo": "testing-fcn-for-cityscapes",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/theduynguyen/Keras-FCN",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-04-09T16:52:51Z",
+                "owner": "theduynguyen",
+                "repo": "Keras-FCN",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/seewalker/tf-pixelwise",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2016-12-01T17:25:14Z",
+                "owner": "seewalker",
+                "repo": "tf-pixelwise",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/muyang0320/tf-fcn",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-09-27T12:43:17Z",
+                "owner": "muyang0320",
+                "repo": "tf-fcn",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/petrama/VGGSegmentation",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-03-06T15:19:58Z",
+                "owner": "petrama",
+                "repo": "VGGSegmentation",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ENet [https://arxiv.org/pdf/1606.02147.pdf",
+          "description": "] [2016]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/yassouali/pytorch_segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-02-23T19:05:28Z",
+                "owner": "yassouali",
+                "repo": "pytorch-segmentation",
+                "stars": 1817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/TimoSaemann/ENet",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-03-22T08:59:02Z",
+                "owner": "TimoSaemann",
+                "repo": "ENet",
+                "stars": 596
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/davidtvs/PyTorch-ENet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-05-10T21:12:24Z",
+                "owner": "davidtvs",
+                "repo": "PyTorch-ENet",
+                "stars": 410
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/e-lab/ENet-training",
+              "description": "[Torch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2017-06-26T18:15:27Z",
+                "owner": "e-lab",
+                "repo": "ENet-training",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/kwotsin/TensorFlow-ENet",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-09-09T19:13:41Z",
+                "owner": "kwotsin",
+                "repo": "TensorFlow-ENet",
+                "stars": 253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/fregu856/segmentation",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-11-06T14:56:08Z",
+                "owner": "fregu856",
+                "repo": "segmentation",
+                "stars": 244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/PavlosMelissinos/enet-keras",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-12-07T23:36:33Z",
+                "owner": "PavlosMelissinos",
+                "repo": "enet-keras",
+                "stars": 115
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LinkNet [https://arxiv.org/pdf/1707.03718.pdf",
+          "description": "] [2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/qubvel/segmentation_models",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-21T11:16:16Z",
+                "owner": "qubvel",
+                "repo": "segmentation_models",
+                "stars": 4927
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/e-lab/LinkNet",
+              "description": "[Torch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2017-08-07T18:58:00Z",
+                "owner": "e-lab",
+                "repo": "LinkNet",
+                "stars": 174
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DenseNet [https://arxiv.org/pdf/1611.09326.pdf",
+          "description": "] [2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/SimJeg/FC-DenseNet",
+              "description": "[Lasagne]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-10-18T16:43:15Z",
+                "owner": "SimJeg",
+                "repo": "FC-DenseNet",
+                "stars": 490
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/0bserver07/One-Hundred-Layers-Tiramisu",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-06T02:11:56Z",
+                "owner": "0bserver07",
+                "repo": "One-Hundred-Layers-Tiramisu",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/HasnainRaz/FC-DenseNet-TensorFlow",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-12-21T22:42:25Z",
+                "owner": "HasnainRaz",
+                "repo": "FC-DenseNet-TensorFlow",
+                "stars": 124
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DilatedNet [https://arxiv.org/pdf/1511.07122.pdf",
+          "description": "] [2016]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/hangzhaomit/semantic-segmentation-pytorch",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-01-15T14:26:43Z",
+                "owner": "CSAILVision",
+                "repo": "semantic-segmentation-pytorch",
+                "stars": 5077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/fyu/drn#semantic-image-segmentataion",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-03-09T19:11:52Z",
+                "owner": "fyu",
+                "repo": "drn",
+                "stars": 1102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/fyu/dilation",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-04-01T04:29:16Z",
+                "owner": "fyu",
+                "repo": "dilation",
+                "stars": 784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/nicolov/segmentation_keras",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-01-05T15:01:43Z",
+                "owner": "nicolov",
+                "repo": "segmentation_keras",
+                "stars": 300
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PixelNet [https://arxiv.org/pdf/1609.06694.pdf",
+          "description": "] [2016]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/aayushbansal/PixelNet",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Matlab",
+                "last_commit": "2017-06-08T12:41:38Z",
+                "owner": "aayushbansal",
+                "repo": "PixelNet",
+                "stars": 197
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ICNet [https://arxiv.org/pdf/1704.08545.pdf",
+          "description": "] [2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/hszhao/ICNet",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MATLAB",
+                "last_commit": "2022-04-15T20:07:00Z",
+                "owner": "hszhao",
+                "repo": "ICNet",
+                "stars": 609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/supervisely/supervisely/tree/master/plugins/nn/icnet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T15:53:30Z",
+                "owner": "supervisely",
+                "repo": "supervisely",
+                "stars": 540
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hellochick/ICNet-tensorflow",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-06-28T14:37:06Z",
+                "owner": "hellochick",
+                "repo": "ICNet-tensorflow",
+                "stars": 404
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/oandrienko/fast-semantic-segmentation",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-11-05T23:31:52Z",
+                "owner": "oandrienko",
+                "repo": "fast-semantic-segmentation",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/aitorzip/Keras-ICNet",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-01-24T12:25:26Z",
+                "owner": "aitorzip",
+                "repo": "Keras-ICNet",
+                "stars": 88
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf",
+          "description": "] [?]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/Eromera/erfnet_pytorch",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-12-05T10:20:15Z",
+                "owner": "Eromera",
+                "repo": "erfnet_pytorch",
+                "stars": 445
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Eromera/erfnet",
+              "description": "[Torch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2019-12-05T10:15:11Z",
+                "owner": "Eromera",
+                "repo": "erfnet",
+                "stars": 123
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RefineNet [https://arxiv.org/pdf/1611.06612.pdf",
+          "description": "] [2016]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/guosheng/refinenet",
+              "description": "[MatConvNet]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MATLAB",
+                "last_commit": "2019-06-01T05:40:49Z",
+                "owner": "guosheng",
+                "repo": "refinenet",
+                "stars": 606
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PSPNet [https://arxiv.org/pdf/1612.01105.pdf,https://hszhao.github.io/projects/pspnet/",
+          "description": "] [2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/qubvel/segmentation_models",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-21T11:16:16Z",
+                "owner": "qubvel",
+                "repo": "segmentation_models",
+                "stars": 4927
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/youansheng/torchcv",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2020-11-19T05:40:57Z",
+                "owner": "donnyyou",
+                "repo": "torchcv",
+                "stars": 2251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/yassouali/pytorch_segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-02-23T19:05:28Z",
+                "owner": "yassouali",
+                "repo": "pytorch-segmentation",
+                "stars": 1817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-10-25T09:05:41Z",
+                "owner": "zijundeng",
+                "repo": "pytorch-semantic-segmentation",
+                "stars": 1736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hszhao/PSPNet",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2022-04-15T20:41:57Z",
+                "owner": "hszhao",
+                "repo": "PSPNet",
+                "stars": 1661
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/speedinghzl/pytorch-segmentation-toolbox",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-02-20T15:53:52Z",
+                "owner": "speedinghzl",
+                "repo": "pytorch-segmentation-toolbox",
+                "stars": 778
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Vladkryvoruchko/PSPNet-Keras-tensorflow",
+              "description": "[Keras/Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-09-25T09:43:09Z",
+                "owner": "Vladkryvoruchko",
+                "repo": "PSPNet-Keras-tensorflow",
+                "stars": 397
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hellochick/PSPNet-tensorflow",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-06-03T09:04:26Z",
+                "owner": "hellochick",
+                "repo": "PSPNet-tensorflow",
+                "stars": 321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/oandrienko/fast-semantic-segmentation",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-11-05T23:31:52Z",
+                "owner": "oandrienko",
+                "repo": "fast-semantic-segmentation",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/holyseven/PSPNet-TF-Reproduce",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-04-09T08:38:34Z",
+                "owner": "holyseven",
+                "repo": "PSPNet-TF-Reproduce",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hellochick/semantic-segmentation-tensorflow",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-04-03T04:09:49Z",
+                "owner": "hellochick",
+                "repo": "semantic-segmentation-tensorflow",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/mitmul/chainer-pspnet",
+              "description": "[Chainer]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-10-09T08:25:40Z",
+                "owner": "mitmul",
+                "repo": "chainer-pspnet",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/kazuto1011/pspnet-pytorch",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-01-13T09:41:10Z",
+                "owner": "kazuto1011",
+                "repo": "pspnet-pytorch",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/pudae/tensorflow-pspnet",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-08-07T00:28:24Z",
+                "owner": "pudae",
+                "repo": "tensorflow-pspnet",
+                "stars": 47
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DeconvNet [https://arxiv.org/pdf/1505.04366.pdf",
+          "description": "] [2015]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/HyeonwooNoh/DeconvNet",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Matlab",
+                "last_commit": "2015-06-23T08:26:49Z",
+                "owner": "HyeonwooNoh",
+                "repo": "DeconvNet",
+                "stars": 326
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/fabianbormann/Tensorflow-DeconvNet-Segmentation",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-10-10T13:00:04Z",
+                "owner": "fabianbormann",
+                "repo": "Tensorflow-DeconvNet-Segmentation",
+                "stars": 221
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FRRN [https://arxiv.org/pdf/1611.08323.pdf",
+          "description": "] [2016]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/TobyPDE/FRRN",
+              "description": "[Lasagne]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-07-27T19:15:25Z",
+                "owner": "TobyPDE",
+                "repo": "FRRN",
+                "stars": 282
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GCN [https://arxiv.org/pdf/1703.02719.pdf",
+          "description": "] [2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/yassouali/pytorch_segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-02-23T19:05:28Z",
+                "owner": "yassouali",
+                "repo": "pytorch-segmentation",
+                "stars": 1817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-10-25T09:05:41Z",
+                "owner": "zijundeng",
+                "repo": "pytorch-semantic-segmentation",
+                "stars": 1736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ycszen/pytorch-seg",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2019-07-19T01:56:11Z",
+                "owner": "yu-changqian",
+                "repo": "pytorch-segmentation",
+                "stars": 413
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LRR [https://arxiv.org/pdf/1605.02264.pdf",
+          "description": "] [2016]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/golnazghiasi/LRR",
+              "description": "[Matconvnet]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Matlab",
+                "last_commit": "2016-12-02T05:32:22Z",
+                "owner": "golnazghiasi",
+                "repo": "LRR",
+                "stars": 59
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf",
+          "description": "] [2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/yassouali/pytorch_segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-02-23T19:05:28Z",
+                "owner": "yassouali",
+                "repo": "pytorch-segmentation",
+                "stars": 1817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-10-25T09:05:41Z",
+                "owner": "zijundeng",
+                "repo": "pytorch-semantic-segmentation",
+                "stars": 1736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ycszen/pytorch-seg",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2019-07-19T01:56:11Z",
+                "owner": "yu-changqian",
+                "repo": "pytorch-segmentation",
+                "stars": 413
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MultiNet [https://arxiv.org/pdf/1612.07695.pdf",
+          "description": "] [2016]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/MarvinTeichmann/KittiSeg",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-03-02T08:22:51Z",
+                "owner": "MarvinTeichmann",
+                "repo": "KittiSeg",
+                "stars": 917
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/MarvinTeichmann/MultiNet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-05-17T07:35:17Z",
+                "owner": "MarvinTeichmann",
+                "repo": "MultiNet",
+                "stars": 556
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Segaware [https://arxiv.org/pdf/1708.04607.pdf",
+          "description": "] [2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/aharley/segaware",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-11-13T10:45:18Z",
+                "owner": "aharley",
+                "repo": "segaware",
+                "stars": 146
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Semantic Segmentation using Adversarial Networks [https://arxiv.org/pdf/1611.08408.pdf",
+          "description": "] [2016]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks",
+              "description": "[Chainer]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-07-25T11:50:24Z",
+                "owner": "oyam",
+                "repo": "Semantic-Segmentation-using-Adversarial-Networks",
+                "stars": 106
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PixelDCN [https://arxiv.org/pdf/1705.06820.pdf",
+          "description": "] [2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/HongyangGao/PixelDCN",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-12-13T17:13:59Z",
+                "owner": "HongyangGao",
+                "repo": "PixelTCN",
+                "stars": 97
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ShuffleSeg [https://arxiv.org/pdf/1803.03816.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/MSiam/TFSegmentation",
+              "description": "[TensorFlow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-11-22T01:54:43Z",
+                "owner": "MSiam",
+                "repo": "TFSegmentation",
+                "stars": 592
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AdaptSegNet [https://arxiv.org/pdf/1802.10349.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/wasidennis/AdaptSegNet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-08-14T00:12:23Z",
+                "owner": "wasidennis",
+                "repo": "AdaptSegNet",
+                "stars": 858
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TuSimple-DUC [https://arxiv.org/pdf/1702.08502.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/TuSimple/TuSimple-DUC",
+              "description": "[MxNet]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-10-26T04:02:46Z",
+                "owner": "TuSimple",
+                "repo": "TuSimple-DUC",
+                "stars": 609
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FPN [http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf",
+          "description": "] [2017]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/qubvel/segmentation_models",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-21T11:16:16Z",
+                "owner": "qubvel",
+                "repo": "segmentation_models",
+                "stars": 4927
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "R2U-Net [https://arxiv.org/ftp/arxiv/papers/1802/1802.06955.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/LeeJunHyun/Image_Segmentation#r2u-net",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-30T05:20:58Z",
+                "owner": "LeeJunHyun",
+                "repo": "Image_Segmentation",
+                "stars": 3106
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Attention U-Net [https://arxiv.org/pdf/1804.03999.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/LeeJunHyun/Image_Segmentation#attention-u-net",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-30T05:20:58Z",
+                "owner": "LeeJunHyun",
+                "repo": "Image_Segmentation",
+                "stars": 3106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ozan-oktay/Attention-Gated-Networks",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-11-13T15:17:55Z",
+                "owner": "ozan-oktay",
+                "repo": "Attention-Gated-Networks",
+                "stars": 2063
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DANet [https://arxiv.org/pdf/1809.02983.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/junfu1115/DANet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-12-23T11:42:23Z",
+                "owner": "CASIA-IVA-Lab",
+                "repo": "DANet",
+                "stars": 2462
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ShelfNet [https://arxiv.org/pdf/1811.11254.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/juntang-zhuang/ShelfNet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-02-27T20:14:26Z",
+                "owner": "juntang-zhuang",
+                "repo": "ShelfNet",
+                "stars": 252
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LadderNet [https://arxiv.org/pdf/1810.07810.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/juntang-zhuang/LadderNet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-09-20T21:20:22Z",
+                "owner": "juntang-zhuang",
+                "repo": "LadderNet",
+                "stars": 145
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BiSeNet [https://arxiv.org/pdf/1808.00897.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/zllrunning/face-parsing.PyTorch",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-05-21T14:00:45Z",
+                "owner": "zllrunning",
+                "repo": "face-parsing.PyTorch",
+                "stars": 2586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ycszen/TorchSeg",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-03-11T09:55:12Z",
+                "owner": "yu-changqian",
+                "repo": "TorchSeg",
+                "stars": 1410
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ooooverflow/BiSeNet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-03-13T08:40:57Z",
+                "owner": "ooooverflow",
+                "repo": "BiSeNet",
+                "stars": 409
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ESPNet [https://arxiv.org/pdf/1803.06815.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/sacmehta/ESPNet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-30T08:57:36Z",
+                "owner": "sacmehta",
+                "repo": "ESPNet",
+                "stars": 542
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DFN [https://arxiv.org/pdf/1804.09337.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/ycszen/TorchSeg",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-03-11T09:55:12Z",
+                "owner": "yu-changqian",
+                "repo": "TorchSeg",
+                "stars": 1410
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CCNet [https://arxiv.org/pdf/1811.11721.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/speedinghzl/CCNet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-03-19T07:13:45Z",
+                "owner": "speedinghzl",
+                "repo": "CCNet",
+                "stars": 1483
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DenseASPP [http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/youansheng/torchcv",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2020-11-19T05:40:57Z",
+                "owner": "donnyyou",
+                "repo": "torchcv",
+                "stars": 2251
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Fast-SCNN [https://arxiv.org/pdf/1902.04502.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/DeepVoltaire/Fast-SCNN",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-06-07T11:59:36Z",
+                "owner": "DeepVoltaire",
+                "repo": "Fast-SCNN",
+                "stars": 75
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HRNet [https://arxiv.org/pdf/1904.04514.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/HRNet/HRNet-Semantic-Segmentation",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-11-17T13:07:10Z",
+                "owner": "HRNet",
+                "repo": "HRNet-Semantic-Segmentation",
+                "stars": 3330
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PSANet [https://hszhao.github.io/papers/eccv18_psanet.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/hszhao/PSANet",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2019-09-09T13:37:42Z",
+                "owner": "hszhao",
+                "repo": "PSANet",
+                "stars": 220
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "UPSNet [https://arxiv.org/pdf/1901.03784.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/uber-research/UPSNet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-07-11T21:59:54Z",
+                "owner": "uber-research",
+                "repo": "UPSNet",
+                "stars": 645
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ConvCRF [https://arxiv.org/pdf/1805.04777.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/MarvinTeichmann/ConvCRF",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-11-09T12:32:29Z",
+                "owner": "MarvinTeichmann",
+                "repo": "ConvCRF",
+                "stars": 567
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Multi-scale Guided Attention for Medical Image Segmentation [https://arxiv.org/pdf/1906.02849.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/sinAshish/Multi-Scale-Attention",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-05-16T02:06:57Z",
+                "owner": "sinAshish",
+                "repo": "Multi-Scale-Attention",
+                "stars": 465
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DFANet [https://arxiv.org/pdf/1904.02216.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/huaifeng1993/DFANet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-03-17T03:47:16Z",
+                "owner": "huaifeng1993",
+                "repo": "DFANet",
+                "stars": 256
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ExtremeC3Net [https://arxiv.org/pdf/1908.03093.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/HYOJINPARK/ExtPortraitSeg",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-10-12T23:01:35Z",
+                "owner": "HYOJINPARK",
+                "repo": "ExtPortraitSeg",
+                "stars": 63
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "EncNet [https://arxiv.org/pdf/1803.08904.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/zhanghang1989/PyTorch-Encoding",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-12-21T05:04:53Z",
+                "owner": "zhanghang1989",
+                "repo": "PyTorch-Encoding",
+                "stars": 2046
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unet++ [https://arxiv.org/pdf/1807.10165.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/MrGiovanni/UNetPlusPlus",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-08-25T15:03:35Z",
+                "owner": "MrGiovanni",
+                "repo": "UNetPlusPlus",
+                "stars": 2676
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/4uiiurz1/pytorch-nested-unet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-04-10T03:55:37Z",
+                "owner": "4uiiurz1",
+                "repo": "pytorch-nested-unet",
+                "stars": 1046
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FastFCN [https://arxiv.org/pdf/1903.11816.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/wuhuikai/FastFCN",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-11-20T12:11:20Z",
+                "owner": "wuhuikai",
+                "repo": "FastFCN",
+                "stars": 842
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PortraitNet [https://www.yongliangyang.net/docs/mobilePotrait_c&g19.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/dong-x16/PortraitNet",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-08-13T12:10:58Z",
+                "owner": "dong-x16",
+                "repo": "PortraitNet",
+                "stars": 291
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GSCNN [https://arxiv.org/pdf/1907.05740.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/nv-tlabs/gscnn",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-10-23T15:39:04Z",
+                "owner": "nv-tlabs",
+                "repo": "GSCNN",
+                "stars": 939
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Semantic segmentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "D2Det [https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf",
+          "description": "] [2020] +https://github.com/JialeCao001/D2Det [PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-04T11:33:45Z",
+            "owner": "JialeCao001",
+            "repo": "D2Det",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "FCIS [https://arxiv.org/pdf/1611.07709.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/msracver/FCIS",
+              "description": "[MxNet]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Cuda",
+                "last_commit": "2021-09-27T02:16:42Z",
+                "owner": "msracver",
+                "repo": "FCIS",
+                "stars": 1561
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MNC [https://arxiv.org/pdf/1512.04412.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/daijifeng001/MNC",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-06-09T12:09:43Z",
+                "owner": "daijifeng001",
+                "repo": "MNC",
+                "stars": 494
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DeepMask [https://arxiv.org/pdf/1506.06204.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/facebookresearch/deepmask",
+              "description": "[Torch]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Lua",
+                "last_commit": "2019-01-16T17:21:51Z",
+                "owner": "facebookresearch",
+                "repo": "deepmask",
+                "stars": 3099
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SharpMask [https://arxiv.org/pdf/1603.08695.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/facebookresearch/deepmask",
+              "description": "[Torch]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Lua",
+                "last_commit": "2019-01-16T17:21:51Z",
+                "owner": "facebookresearch",
+                "repo": "deepmask",
+                "stars": 3099
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/open-mmlab/mmdetection",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-21T02:01:07Z",
+                "owner": "open-mmlab",
+                "repo": "mmdetection",
+                "stars": 32873
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/matterport/Mask_RCNN",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-06-07T02:36:21Z",
+                "owner": "matterport",
+                "repo": "Mask_RCNN",
+                "stars": 25570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/facebookresearch/maskrcnn-benchmark",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2023-02-16T04:01:32Z",
+                "owner": "facebookresearch",
+                "repo": "maskrcnn-benchmark",
+                "stars": 9360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/CharlesShang/FastMaskRCNN",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-01-05T04:08:12Z",
+                "owner": "CharlesShang",
+                "repo": "FastMaskRCNN",
+                "stars": 3082
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/TuSimple/mx-maskrcnn",
+              "description": "[MxNet]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-02-28T02:51:13Z",
+                "owner": "TuSimple",
+                "repo": "mx-maskrcnn",
+                "stars": 1753
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/jasjeetIM/Mask-RCNN",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MATLAB",
+                "last_commit": "2019-06-21T16:29:15Z",
+                "owner": "jasjeetIM",
+                "repo": "Mask-RCNN",
+                "stars": 230
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ZFTurbo/Keras-Mask-RCNN-for-Open-Images-2019-Instance-Segmentation",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-10-25T16:33:05Z",
+                "owner": "ZFTurbo",
+                "repo": "Keras-Mask-RCNN-for-Open-Images-2019-Instance-Segmentation",
+                "stars": 57
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RIS [https://arxiv.org/pdf/1511.08250.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/bernard24/RIS",
+              "description": "[Torch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-07-19T23:37:57Z",
+                "owner": "bernard24",
+                "repo": "RIS",
+                "stars": 28
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FastMask [https://arxiv.org/pdf/1612.08843.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/voidrank/FastMask",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-08-01T23:43:05Z",
+                "owner": "voidrank",
+                "repo": "FastMask",
+                "stars": 211
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BlitzNet [https://arxiv.org/pdf/1708.02813.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/dvornikita/blitznet",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-12-19T12:31:23Z",
+                "owner": "dvornikita",
+                "repo": "blitznet",
+                "stars": 318
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PANet [https://arxiv.org/pdf/1803.01534.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/ShuLiu1993/PANet",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-03-17T12:59:59Z",
+                "owner": "ShuLiu1993",
+                "repo": "PANet",
+                "stars": 1348
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PAN [https://arxiv.org/pdf/1805.10180.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-12-19T07:13:28Z",
+                "owner": "JiaweiWang-AI",
+                "repo": "Pyramid-Attention-Networks-pytorch",
+                "stars": 238
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TernausNetV2 [https://arxiv.org/pdf/1806.00844.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/ternaus/TernausNetV2",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-05-23T22:51:21Z",
+                "owner": "ternaus",
+                "repo": "TernausNetV2",
+                "stars": 544
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MS R-CNN [https://arxiv.org/pdf/1903.00241.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/zjhuang22/maskscoring_rcnn",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-11-06T08:07:33Z",
+                "owner": "zjhuang22",
+                "repo": "maskscoring_rcnn",
+                "stars": 1895
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AdaptIS [https://arxiv.org/pdf/1909.07829.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/saic-vul/adaptis",
+              "description": "[MxNet][PyTorch]",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Pose2Seg [https://arxiv.org/pdf/1803.10683.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/liruilong940607/Pose2Seg",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-09-23T16:02:50Z",
+                "owner": "liruilong940607",
+                "repo": "Pose2Seg",
+                "stars": 540
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "YOLACT [https://arxiv.org/pdf/1904.02689.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/dbolya/yolact",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-09T00:11:59Z",
+                "owner": "dbolya",
+                "repo": "yolact",
+                "stars": 5241
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CenterMask [https://arxiv.org/pdf/1911.06667.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/youngwanLEE/CenterMask",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-03-27T08:54:46Z",
+                "owner": "youngwanLEE",
+                "repo": "CenterMask",
+                "stars": 783
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/youngwanLEE/centermask2",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-12-27T06:21:35Z",
+                "owner": "youngwanLEE",
+                "repo": "centermask2",
+                "stars": 777
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "InstaBoost [https://arxiv.org/pdf/1908.07801.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/GothicAi/Instaboost",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-01-07T14:17:51Z",
+                "owner": "GothicAi",
+                "repo": "Instaboost",
+                "stars": 402
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SOLO [https://arxiv.org/pdf/1912.04488.pdf",
+          "description": "] [2019]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/WXinlong/SOLO",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-12-26T14:52:42Z",
+                "owner": "WXinlong",
+                "repo": "SOLO",
+                "stars": 1757
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SOLOv2 [https://arxiv.org/pdf/2003.10152.pdf",
+          "description": "] [2020]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/WXinlong/SOLO",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-12-26T14:52:42Z",
+                "owner": "WXinlong",
+                "repo": "SOLO",
+                "stars": 1757
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Instance aware segmentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "ReNet [https://arxiv.org/pdf/1505.00393.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/fvisin/reseg",
+              "description": "[Lasagne]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2017-06-26T12:12:27Z",
+                "owner": "fvisin",
+                "repo": "reseg",
+                "stars": 126
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ReSeg [https://arxiv.org/pdf/1511.07053.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/fvisin/reseg",
+              "description": "[Lasagne]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2017-06-26T12:12:27Z",
+                "owner": "fvisin",
+                "repo": "reseg",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Wizaron/reseg-pytorch",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-01-17T15:08:33Z",
+                "owner": "Wizaron",
+                "repo": "reseg-pytorch",
+                "stars": 46
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RIS [https://arxiv.org/pdf/1511.08250.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/bernard24/RIS",
+              "description": "[Torch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-07-19T23:37:57Z",
+                "owner": "bernard24",
+                "repo": "RIS",
+                "stars": 28
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CRF-RNN [http://www.robots.ox.ac.uk/%7Eszheng/papers/CRFasRNN.pdf",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/torrvision/crfasrnn",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MATLAB",
+                "last_commit": "2019-11-30T13:17:39Z",
+                "owner": "torrvision",
+                "repo": "crfasrnn",
+                "stars": 1335
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/sadeepj/crfasrnn_keras",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-10-17T19:08:01Z",
+                "owner": "sadeepj",
+                "repo": "crfasrnn_keras",
+                "stars": 603
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/martinkersner/train-CRF-RNN",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-10-07T03:14:18Z",
+                "owner": "martinkersner",
+                "repo": "train-CRF-RNN",
+                "stars": 196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/renmengye/rec-attend-public",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-07-29T16:08:33Z",
+                "owner": "renmengye",
+                "repo": "rec-attend-public",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/NP-coder/CLPS1520Project",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2016-12-08T13:56:05Z",
+                "owner": "andrewhou1",
+                "repo": "CLPS1520Project",
+                "stars": 5
+              }
+            }
+          ]
+        }
+      ],
+      "title": "RNN"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "pix2pix [https://arxiv.org/pdf/1611.07004.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-08-06T17:58:38Z",
+                "owner": "junyanz",
+                "repo": "pytorch-CycleGAN-and-pix2pix",
+                "stars": 25218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/affinelayer/pix2pix-tensorflow",
+              "description": "[Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2021-02-02T06:39:22Z",
+                "owner": "affinelayer",
+                "repo": "pix2pix-tensorflow",
+                "stars": 5083
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "pix2pixHD [https://arxiv.org/pdf/1711.11585.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/NVIDIA/pix2pixHD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-11-04T18:13:20Z",
+                "owner": "NVIDIA",
+                "repo": "pix2pixHD",
+                "stars": 6931
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Probalistic Unet [https://arxiv.org/pdf/1806.05034.pdf",
+          "description": "] [2018]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/SimonKohl/probabilistic_unet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-24T21:55:19Z",
+                "owner": "SimonKohl",
+                "repo": "probabilistic_unet",
+                "stars": 568
+              }
+            }
+          ]
+        }
+      ],
+      "title": "GANS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/lucasb-eyer/pydensecrf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-05T08:38:53Z",
+            "owner": "lucasb-eyer",
+            "repo": "pydensecrf",
+            "stars": 2023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/tpeng/python-crfsuite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-23T16:31:18Z",
+            "owner": "scrapinghub",
+            "repo": "python-crfsuite",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/chokkan/crfsuite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-21T06:16:57Z",
+            "owner": "chokkan",
+            "repo": "crfsuite",
+            "stars": 673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/cvlab-epfl/densecrf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-02-26T09:53:32Z",
+            "owner": "cvlab-epfl",
+            "repo": "densecrf",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/jliemansifry/super-simple-semantic-segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-03-18T17:03:16Z",
+            "owner": "jliemansifry",
+            "repo": "semantic-segmentation",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/amiltonwong/segmentation/blob/master/segmentation.ipynb",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Graphical Models (CRF, MRF)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Microsoft AirSim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-30T19:34:07Z",
+            "owner": "microsoft",
+            "repo": "AirSim",
+            "stars": 18393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clothing Co-Parsing (CCP) Dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "MATLAB",
+            "last_commit": "2019-05-21T22:12:02Z",
+            "owner": "bearpaw",
+            "repo": "clothing-co-parsing",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Human parsing dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-07-03T14:48:54Z",
+            "owner": "lemondan",
+            "repo": "HumanParsing-Dataset",
+            "stars": 224
+          }
+        }
+      ],
+      "title": "Datasets:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/qubvel/segmentation_models.pytorch",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:42:59Z",
+            "owner": "qubvel-org",
+            "repo": "segmentation_models.pytorch",
+            "stars": 11690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/open-mmlab/mmsegmentation",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-13T08:53:34Z",
+            "owner": "open-mmlab",
+            "repo": "mmsegmentation",
+            "stars": 9911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/PaddlePaddle/PaddleSeg",
+          "description": "[PaddlePaddle]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T16:49:17Z",
+            "owner": "PaddlePaddle",
+            "repo": "PaddleSeg",
+            "stars": 9373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/CSAILVision/semantic-segmentation-pytorch",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-15T14:26:43Z",
+            "owner": "CSAILVision",
+            "repo": "semantic-segmentation-pytorch",
+            "stars": 5077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/qubvel/segmentation_models",
+          "description": "[Keras]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-21T11:16:16Z",
+            "owner": "qubvel",
+            "repo": "segmentation_models",
+            "stars": 4927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/meetshah1995/pytorch-semseg",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-11T05:27:04Z",
+            "owner": "meetps",
+            "repo": "pytorch-semseg",
+            "stars": 3403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Tramac/awesome-semantic-segmentation-pytorch",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-04T08:24:27Z",
+            "owner": "Tramac",
+            "repo": "awesome-semantic-segmentation-pytorch",
+            "stars": 3068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/divamgupta/image-segmentation-keras",
+          "description": "[Keras]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-12T08:11:21Z",
+            "owner": "divamgupta",
+            "repo": "image-segmentation-keras",
+            "stars": 3004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/GeorgeSeif/Semantic-Segmentation-Suite",
+          "description": "[Tensorflow]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-04-22T15:27:04Z",
+            "owner": "GeorgeSeif",
+            "repo": "Semantic-Segmentation-Suite",
+            "stars": 2519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/yassouali/pytorch_segmentation",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-23T19:05:28Z",
+            "owner": "yassouali",
+            "repo": "pytorch-segmentation",
+            "stars": 1817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-25T09:05:41Z",
+            "owner": "zijundeng",
+            "repo": "pytorch-semantic-segmentation",
+            "stars": 1736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ycszen/TorchSeg",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-11T09:55:12Z",
+            "owner": "yu-changqian",
+            "repo": "TorchSeg",
+            "stars": 1410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/hszhao/semseg",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-28T10:50:55Z",
+            "owner": "hszhao",
+            "repo": "semseg",
+            "stars": 1378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/openseg-group/openseg.pytorch",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:13:49Z",
+            "owner": "openseg-group",
+            "repo": "openseg.pytorch",
+            "stars": 1235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/warmspringwinds/pytorch-segmentation-detection",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-28T17:43:02Z",
+            "owner": "warmspringwinds",
+            "repo": "pytorch-segmentation-detection",
+            "stars": 756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/MSiam/TFSegmentation",
+          "description": "[Tensorflow]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-22T01:54:43Z",
+            "owner": "MSiam",
+            "repo": "TFSegmentation",
+            "stars": 592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/thuyngch/Human-Segmentation-PyTorch",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-22T03:45:10Z",
+            "owner": "thuyngch",
+            "repo": "Human-Segmentation-PyTorch",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/CSAILVision/sceneparsing",
+          "description": "[Caffe+Matlab]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-04-19T02:22:01Z",
+            "owner": "CSAILVision",
+            "repo": "sceneparsing",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/BloodAxe/segmentation-networks-benchmark",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-09T14:28:07Z",
+            "owner": "BloodAxe",
+            "repo": "segmentation-networks-benchmark",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/opencv/cvat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:21:43Z",
+            "owner": "cvat-ai",
+            "repo": "cvat",
+            "stars": 16507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/wkentaro/labelme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T02:53:11Z",
+            "owner": "wkentaro",
+            "repo": "labelme",
+            "stars": 16099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/CSAILVision/LabelMeAnnotationTool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-29T09:14:05Z",
+            "owner": "CSAILVision",
+            "repo": "LabelMeAnnotationTool",
+            "stars": 1467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/kyamagu/js-segment-annotator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-03-11T01:22:04Z",
+            "owner": "kyamagu",
+            "repo": "js-segment-annotator",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/lzx1413/labelImgPlus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-26T16:23:52Z",
+            "owner": "lzx1413",
+            "repo": "labelImgPlus",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Deep-Magic/COCO-Style-Dataset-Generator-GUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T03:35:04Z",
+            "owner": "hanskrupakar",
+            "repo": "COCO-Style-Dataset-Generator-GUI",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/seanbell/opensurfaces-segmentation-ui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2017-05-24T03:46:49Z",
+            "owner": "seanbell",
+            "repo": "opensurfaces-segmentation-ui",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/AKSHAYUBHAT/ImageSegmentation",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/labelbox/labelbox",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Labelbox/Labelbox",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/saic-vul/fbrs_interactive_segmentation",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Annotation Tools:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/tangzhenyu/SemanticSegmentation_DL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-03-10T00:32:08Z",
+            "owner": "tangzhenyu",
+            "repo": "SemanticSegmentation_DL",
+            "stars": 1102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/nightrome/really-awesome-semantic-segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-16T22:11:26Z",
+            "owner": "nightrome",
+            "repo": "really-awesome-semantic-segmentation",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/JackieZhangdx/InstanceSegmentationList",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-26T06:23:07Z",
+            "owner": "JackieZhangdx",
+            "repo": "InstanceSegmentationList",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/damminhtien/awesome-semantic-segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-10T03:27:58Z",
+            "owner": "damminhtien",
+            "repo": "awesome-semantic-segmentation",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Other lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "DIGITS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/NVIDIA/DIGITS/tree/master/examples/medical-imaging",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2025-01-07T04:34:44Z",
+                "owner": "NVIDIA",
+                "repo": "DIGITS",
+                "stars": 4178
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/dmlc/mxnet/issues/1514",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C++",
+                "last_commit": "2023-10-25T21:28:33Z",
+                "owner": "apache",
+                "repo": "mxnet",
+                "stars": 20812
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/orobix/retina-unet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-09-08T16:41:42Z",
+                "owner": "orobix",
+                "repo": "retina-unet",
+                "stars": 1352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/imlab-uiip/lung-segmentation-2d",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-06-03T02:41:13Z",
+                "owner": "imlab-uiip",
+                "repo": "lung-segmentation-2d",
+                "stars": 174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/fvisin/reseg",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2017-06-26T12:12:27Z",
+                "owner": "fvisin",
+                "repo": "reseg",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/WeidiXie/cell_counting_v2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-05-30T16:10:46Z",
+                "owner": "WeidiXie",
+                "repo": "cell_counting_v2",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/yandexdataschool/YSDA_deeplearning17/blob/master/Seminar6/Seminar%206%20-%20segmentation.ipynb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-05-12T13:41:23Z",
+                "owner": "yandexdataschool",
+                "repo": "YSDA_deeplearning17",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/yulequan/melanoma-recognition",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-02-09T04:51:00Z",
+                "owner": "yulequan",
+                "repo": "melanoma-recognition",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/scottykwok/cervix-roi-segmentation-by-unet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-09-09T16:41:11Z",
+                "owner": "scottykwok",
+                "repo": "cervix-roi-segmentation-by-unet",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/junyanz/MCILBoost",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MATLAB",
+                "last_commit": "2020-08-05T01:49:59Z",
+                "owner": "junyanz",
+                "repo": "MCILBoost",
+                "stars": 31
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Cascaded-FCN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/IBBM/Cascaded-FCN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-12-27T10:38:28Z",
+                "owner": "IBBM",
+                "repo": "Cascaded-FCN",
+                "stars": 301
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Keras",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/jocicmarko/ultrasound-nerve-segmentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-10-11T17:58:13Z",
+                "owner": "jocicmarko",
+                "repo": "ultrasound-nerve-segmentation",
+                "stars": 944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/lishen/end2end-all-conv",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-02-24T19:00:58Z",
+                "owner": "lishen",
+                "repo": "end2end-all-conv",
+                "stars": 392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/EdwardTyantov/ultrasound-nerve-segmentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-06-29T11:24:44Z",
+                "owner": "EdwardTyantov",
+                "repo": "ultrasound-nerve-segmentation",
+                "stars": 181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/scottykwok/cervix-roi-segmentation-by-unet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-09-09T16:41:11Z",
+                "owner": "scottykwok",
+                "repo": "cervix-roi-segmentation-by-unet",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/intact-project/ild-cnn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2016-04-13T08:16:41Z",
+                "owner": "stergioc",
+                "repo": "ild-cnn",
+                "stars": 25
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Tensorflow",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/DLTK/DLTK/tree/master/examples/applications/MRBrainS13_tissue_segmentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-03-24T22:27:46Z",
+                "owner": "DLTK",
+                "repo": "DLTK",
+                "stars": 1458
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/imatge-upc/liverseg-2017-nipsws",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-01-11T15:52:52Z",
+                "owner": "imatge-upc",
+                "repo": "liverseg-2017-nipsws",
+                "stars": 99
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Using Convolutional Neural Networks (CNN) for Semantic Segmentation of Breast Cancer Lesions (BRCA)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/ecobost/cnn4brca",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-04-22T05:25:39Z",
+                "owner": "ecobost",
+                "repo": "cnn4brca",
+                "stars": 77
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Papers:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/albarqouni/Deep-Learning-for-Medical-Applications#segmentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TeX",
+                "last_commit": "2022-04-01T08:51:47Z",
+                "owner": "albarqouni",
+                "repo": "Deep-Learning-for-Medical-Applications",
+                "stars": 1610
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Data:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/beamandrew/medical-data",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-11-19T22:52:15Z",
+                "owner": "beamandrew",
+                "repo": "medical-data",
+                "stars": 6021
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Medical image segmentation:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/azavea/raster-vision",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T14:59:54Z",
+            "owner": "azavea",
+            "repo": "raster-vision",
+            "stars": 2237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mapbox/robosat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T15:11:59Z",
+            "owner": "mapbox",
+            "repo": "robosat",
+            "stars": 2064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/trailbehind/DeepOSM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-03-13T16:09:05Z",
+            "owner": "trailbehind",
+            "repo": "DeepOSM",
+            "stars": 1330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/nshaud/DeepNetsForEO",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-10-23T15:22:56Z",
+            "owner": "nshaud",
+            "repo": "DeepNetsForEO",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/KGPML/Hyperspectral",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-01-14T10:29:28Z",
+            "owner": "KGPML",
+            "repo": "Hyperspectral",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mitmul/ssai-cnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-22T12:18:28Z",
+            "owner": "mitmul",
+            "repo": "ssai-cnn",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/lopuhin/kaggle-dstl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-26T02:17:48Z",
+            "owner": "lopuhin",
+            "repo": "kaggle-dstl",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mitmul/ssai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-04-08T08:38:15Z",
+            "owner": "mitmul",
+            "repo": "ssai",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mshivaprakash/sat-seg-thesis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-10T07:01:30Z",
+            "owner": "mshiv",
+            "repo": "sat-seg",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/datapink/robosat.pink",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Satellite images segmentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/JingchunCheng/Seg-with-SPN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-23T18:51:00Z",
+            "owner": "JingchunCheng",
+            "repo": "Seg-with-SPN",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/shelhamer/clockwork-fcn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-02-02T00:58:29Z",
+            "owner": "shelhamer",
+            "repo": "clockwork-fcn",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "Video segmentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/ndrplz/self-driving-car",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-03-28T00:13:06Z",
+            "owner": "ndrplz",
+            "repo": "self-driving-car",
+            "stars": 2923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/MaybeShewill-CV/lanenet-lane-detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-08T16:17:26Z",
+            "owner": "MaybeShewill-CV",
+            "repo": "lanenet-lane-detection",
+            "stars": 2562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/MarvinTeichmann/KittiSeg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-02T08:22:51Z",
+            "owner": "MarvinTeichmann",
+            "repo": "KittiSeg",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/MarvinTeichmann/MultiNet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-17T07:35:17Z",
+            "owner": "MarvinTeichmann",
+            "repo": "MultiNet",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mvirgo/MLND-Capstone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-08T07:05:47Z",
+            "owner": "mvirgo",
+            "repo": "MLND-Capstone",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/vxy10/p5_VehicleDetection_Unet",
+          "description": "[Keras]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-02-03T03:55:55Z",
+            "owner": "vxy10",
+            "repo": "p5_VehicleDetection_Unet",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/zhujun98/semantic_segmentation/tree/master/fcn8s_road",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-01-17T08:07:46Z",
+            "owner": "zhujun98",
+            "repo": "semantic_segmentation",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Autonomous driving"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Keras",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/abbypa/NNProject_DeepMask",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2016-11-16T14:21:32Z",
+                "owner": "abbypa",
+                "repo": "NNProject_DeepMask",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-04-11T08:12:57Z",
+                "owner": "gakarak",
+                "repo": "FCN_MSCOCO_Food_Segmentation",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TensorFlow",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/warmspringwinds/tf-image-segmentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-08-23T20:48:03Z",
+                "owner": "warmspringwinds",
+                "repo": "tf-image-segmentation",
+                "stars": 546
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Caffe",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/xiaolonw/nips14_loc_seg_testonly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2015-05-17T19:25:59Z",
+                "owner": "xiaolonw",
+                "repo": "nips14_loc_seg_testonly",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/naibaf7/caffe_neural_tool",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2016-06-09T16:48:35Z",
+                "owner": "naibaf7",
+                "repo": "caffe_neural_tool",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "torch",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/phillipi/pix2pix",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2021-06-06T12:09:47Z",
+                "owner": "phillipi",
+                "repo": "pix2pix",
+                "stars": 10654
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/erogol/seg-torch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2016-12-29T20:22:17Z",
+                "owner": "erogol",
+                "repo": "seg-torch",
+                "stars": 36
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MXNet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/itijyou/ademxapp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-08-19T17:04:59Z",
+                "owner": "itijyou",
+                "repo": "ademxapp",
+                "stars": 344
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Networks by framework (Older list)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Simultaneous detection and segmentation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/bharath272/sds_eccv2014",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Matlab",
+                "last_commit": "2017-04-17T06:56:02Z",
+                "owner": "bharath272",
+                "repo": "sds_eccv2014",
+                "stars": 96
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/HyeonwooNoh/DecoupledNet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2015-06-23T13:10:39Z",
+                "owner": "HyeonwooNoh",
+                "repo": "DecoupledNet",
+                "stars": 72
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning to Propose Objects",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/philkr/lpo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2015-09-19T01:47:21Z",
+                "owner": "philkr",
+                "repo": "lpo",
+                "stars": 90
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Other",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2025-01-07T04:34:44Z",
+                "owner": "NVIDIA",
+                "repo": "DIGITS",
+                "stars": 4178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/cvjena/cn24",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2021-09-01T14:53:09Z",
+                "owner": "cvjena",
+                "repo": "cn24",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/amueller/textonboost",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2013-04-15T11:59:19Z",
+                "owner": "amueller",
+                "repo": "textonboost",
+                "stars": 32
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Papers and Code (Older list)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/fchollet/keras/issues/6538",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:11:54Z",
+            "owner": "keras-team",
+            "repo": "keras",
+            "stars": 64227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-15T10:52:15Z",
+            "owner": "kjw0612",
+            "repo": "awesome-deep-vision",
+            "stars": 11177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-15T10:52:15Z",
+            "owner": "kjw0612",
+            "repo": "awesome-deep-vision",
+            "stars": 11177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/warmspringwinds/pytorch-segmentation-detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-28T17:43:02Z",
+            "owner": "warmspringwinds",
+            "repo": "pytorch-segmentation-detection",
+            "stars": 756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/nightrome/really-awesome-semantic-segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-16T22:11:26Z",
+            "owner": "nightrome",
+            "repo": "really-awesome-semantic-segmentation",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/warmspringwinds/tensorflow_notes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-02-16T08:40:13Z",
+            "owner": "warmspringwinds",
+            "repo": "tensorflow_notes",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/MichaelXin/Awesome-Caffe#23-image-segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-09-05T06:12:18Z",
+            "owner": "MichaelXin",
+            "repo": "Awesome-Caffe",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/neuropoly/axondeepseg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:48:41Z",
+            "owner": "axondeepseg",
+            "repo": "axondeepseg",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/petrochenko-pavel-a/segmentation_training_pipeline",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-27T10:03:23Z",
+            "owner": "musket-ml",
+            "repo": "segmentation_training_pipeline",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/desimone/segmentation-models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-01-21T02:23:31Z",
+            "owner": "desimone",
+            "repo": "segmentation-models",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "To look at"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2025-01-07T04:34:44Z",
+            "owner": "NVIDIA",
+            "repo": "DIGITS",
+            "stars": 4178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2025-01-07T04:34:44Z",
+            "owner": "NVIDIA",
+            "repo": "DIGITS",
+            "stars": 4178
+          }
+        }
+      ],
+      "title": "Blog posts, other:"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:21:22.770Z",
+    "original_repository": "mrgloom/awesome-semantic-segmentation",
+    "original_repository_sha": "9278d7ab0ddc581c577c8e147e5f5d6e060c00f8",
+    "enhanced_repository": "enhansome/enhansome-semantic-segmentation",
+    "enhanced_repository_description": null,
+    "title": "Awesome Semantic Segmentation with stars"
+  }
+}
