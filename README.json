@@ -441,10 +441,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T23:02:45Z",
+                "last_commit": "2026-08-15T02:25:39Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659
+                "stars": 77654
               }
             },
             {
@@ -1277,7 +1277,7 @@
                 "last_commit": "2026-08-12T15:53:30Z",
                 "owner": "supervisely",
                 "repo": "supervisely",
-                "stars": 539
+                "stars": 540
               }
             },
             {
@@ -2397,7 +2397,7 @@
                 "last_commit": "2025-08-25T15:03:35Z",
                 "owner": "MrGiovanni",
                 "repo": "UNetPlusPlus",
-                "stars": 2676
+                "stars": 2677
               }
             },
             {
@@ -2613,7 +2613,7 @@
                 "last_commit": "2024-06-07T02:36:21Z",
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25570
+                "stars": 25569
               }
             },
             {
@@ -3170,7 +3170,7 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25217
+                "stars": 25219
               }
             },
             {
@@ -3330,7 +3330,7 @@
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18398
+            "stars": 18402
           }
         },
         {
@@ -3375,10 +3375,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T01:43:01Z",
+            "last_commit": "2026-08-14T08:03:39Z",
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
-            "stars": 11691
+            "stars": 11692
           }
         },
         {
@@ -3392,7 +3392,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9914
+            "stars": 9916
           }
         },
         {
@@ -3406,7 +3406,7 @@
             "last_commit": "2026-02-05T16:49:17Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9373
+            "stars": 9372
           }
         },
         {
@@ -3462,7 +3462,7 @@
             "last_commit": "2023-01-04T08:24:27Z",
             "owner": "Tramac",
             "repo": "awesome-semantic-segmentation-pytorch",
-            "stars": 3068
+            "stars": 3069
           }
         },
         {
@@ -3560,7 +3560,7 @@
             "last_commit": "2024-07-25T10:13:49Z",
             "owner": "openseg-group",
             "repo": "openseg.pytorch",
-            "stars": 1235
+            "stars": 1236
           }
         },
         {
@@ -3647,10 +3647,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:43:41Z",
+            "last_commit": "2026-08-14T16:41:44Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16521
+            "stars": 16526
           }
         },
         {
@@ -3664,7 +3664,7 @@
             "last_commit": "2026-08-08T02:53:11Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16103
+            "stars": 16101
           }
         },
         {
@@ -3845,7 +3845,7 @@
                 "last_commit": "2025-01-07T04:34:44Z",
                 "owner": "NVIDIA",
                 "repo": "DIGITS",
-                "stars": 4178
+                "stars": 4177
               }
             }
           ]
@@ -4698,7 +4698,7 @@
                 "last_commit": "2025-01-07T04:34:44Z",
                 "owner": "NVIDIA",
                 "repo": "DIGITS",
-                "stars": 4178
+                "stars": 4177
               }
             },
             {
@@ -4745,10 +4745,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T19:27:30Z",
+            "last_commit": "2026-08-14T17:42:21Z",
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64229
+            "stars": 64230
           }
         },
         {
@@ -4762,7 +4762,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11180
+            "stars": 11182
           }
         },
         {
@@ -4776,7 +4776,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11180
+            "stars": 11182
           }
         },
         {
@@ -4894,7 +4894,7 @@
             "last_commit": "2025-01-07T04:34:44Z",
             "owner": "NVIDIA",
             "repo": "DIGITS",
-            "stars": 4178
+            "stars": 4177
           }
         },
         {
@@ -4908,7 +4908,7 @@
             "last_commit": "2025-01-07T04:34:44Z",
             "owner": "NVIDIA",
             "repo": "DIGITS",
-            "stars": 4178
+            "stars": 4177
           }
         }
       ],
@@ -4916,7 +4916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:00:34.305Z",
+    "last_updated": "2026-08-15T07:15:00.574Z",
     "original_repository": "mrgloom/awesome-semantic-segmentation",
     "original_repository_sha": "9278d7ab0ddc581c577c8e147e5f5d6e060c00f8",
     "enhanced_repository": "enhansome/enhansome-semantic-segmentation",
