@@ -38,7 +38,7 @@
                 "last_commit": "2024-08-21T11:16:16Z",
                 "owner": "qubvel",
                 "repo": "segmentation_models",
-                "stars": 4927
+                "stars": 4925
               }
             },
             {
@@ -52,7 +52,7 @@
                 "last_commit": "2023-06-30T05:20:58Z",
                 "owner": "LeeJunHyun",
                 "repo": "Image_Segmentation",
-                "stars": 3106
+                "stars": 3105
               }
             },
             {
@@ -444,7 +444,7 @@
                 "last_commit": "2026-08-15T02:25:39Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77654
+                "stars": 77652
               }
             },
             {
@@ -458,7 +458,7 @@
                 "last_commit": "2021-09-27T01:43:43Z",
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4119
+                "stars": 4120
               }
             },
             {
@@ -1095,7 +1095,7 @@
                 "last_commit": "2024-08-21T11:16:16Z",
                 "owner": "qubvel",
                 "repo": "segmentation_models",
-                "stars": 4927
+                "stars": 4925
               }
             },
             {
@@ -1396,7 +1396,7 @@
                 "last_commit": "2024-08-21T11:16:16Z",
                 "owner": "qubvel",
                 "repo": "segmentation_models",
-                "stars": 4927
+                "stars": 4925
               }
             },
             {
@@ -1935,7 +1935,7 @@
                 "last_commit": "2024-08-21T11:16:16Z",
                 "owner": "qubvel",
                 "repo": "segmentation_models",
-                "stars": 4927
+                "stars": 4925
               }
             }
           ]
@@ -1956,7 +1956,7 @@
                 "last_commit": "2023-06-30T05:20:58Z",
                 "owner": "LeeJunHyun",
                 "repo": "Image_Segmentation",
-                "stars": 3106
+                "stars": 3105
               }
             }
           ]
@@ -1977,7 +1977,7 @@
                 "last_commit": "2023-06-30T05:20:58Z",
                 "owner": "LeeJunHyun",
                 "repo": "Image_Segmentation",
-                "stars": 3106
+                "stars": 3105
               }
             },
             {
@@ -2166,7 +2166,7 @@
                 "last_commit": "2021-03-19T07:13:45Z",
                 "owner": "speedinghzl",
                 "repo": "CCNet",
-                "stars": 1483
+                "stars": 1484
               }
             }
           ]
@@ -2411,7 +2411,7 @@
                 "last_commit": "2020-04-10T03:55:37Z",
                 "owner": "4uiiurz1",
                 "repo": "pytorch-nested-unet",
-                "stars": 1046
+                "stars": 1047
               }
             }
           ]
@@ -2474,7 +2474,7 @@
                 "last_commit": "2023-10-23T15:39:04Z",
                 "owner": "nv-tlabs",
                 "repo": "GSCNN",
-                "stars": 939
+                "stars": 938
               }
             }
           ]
@@ -2962,7 +2962,7 @@
                 "last_commit": "2023-12-26T14:52:42Z",
                 "owner": "WXinlong",
                 "repo": "SOLO",
-                "stars": 1757
+                "stars": 1758
               }
             }
           ]
@@ -2983,7 +2983,7 @@
                 "last_commit": "2023-12-26T14:52:42Z",
                 "owner": "WXinlong",
                 "repo": "SOLO",
-                "stars": 1757
+                "stars": 1758
               }
             }
           ]
@@ -3205,7 +3205,7 @@
                 "last_commit": "2024-11-04T18:13:20Z",
                 "owner": "NVIDIA",
                 "repo": "pix2pixHD",
-                "stars": 6931
+                "stars": 6930
               }
             }
           ]
@@ -3248,7 +3248,7 @@
             "last_commit": "2024-03-05T08:38:53Z",
             "owner": "lucasb-eyer",
             "repo": "pydensecrf",
-            "stars": 2022
+            "stars": 2023
           }
         },
         {
@@ -3330,7 +3330,7 @@
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18402
+            "stars": 18403
           }
         },
         {
@@ -3378,7 +3378,7 @@
             "last_commit": "2026-08-14T08:03:39Z",
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
-            "stars": 11692
+            "stars": 11694
           }
         },
         {
@@ -3392,7 +3392,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9916
+            "stars": 9917
           }
         },
         {
@@ -3406,7 +3406,7 @@
             "last_commit": "2026-02-05T16:49:17Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9372
+            "stars": 9373
           }
         },
         {
@@ -3434,7 +3434,7 @@
             "last_commit": "2024-08-21T11:16:16Z",
             "owner": "qubvel",
             "repo": "segmentation_models",
-            "stars": 4927
+            "stars": 4925
           }
         },
         {
@@ -3647,10 +3647,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:41:44Z",
+            "last_commit": "2026-08-15T20:48:19Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16526
+            "stars": 16528
           }
         },
         {
@@ -3664,7 +3664,7 @@
             "last_commit": "2026-08-08T02:53:11Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16101
+            "stars": 16103
           }
         },
         {
@@ -4153,7 +4153,7 @@
                 "last_commit": "2022-04-01T08:51:47Z",
                 "owner": "albarqouni",
                 "repo": "Deep-Learning-for-Medical-Applications",
-                "stars": 1610
+                "stars": 1609
               }
             }
           ]
@@ -4748,7 +4748,7 @@
             "last_commit": "2026-08-14T17:42:21Z",
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64230
+            "stars": 64232
           }
         },
         {
@@ -4843,7 +4843,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:48:41Z",
+            "last_commit": "2026-08-16T03:22:17Z",
             "owner": "axondeepseg",
             "repo": "axondeepseg",
             "stars": 127
@@ -4916,7 +4916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:15:00.574Z",
+    "last_updated": "2026-08-16T07:17:17.959Z",
     "original_repository": "mrgloom/awesome-semantic-segmentation",
     "original_repository_sha": "9278d7ab0ddc581c577c8e147e5f5d6e060c00f8",
     "enhanced_repository": "enhansome/enhansome-semantic-segmentation",
