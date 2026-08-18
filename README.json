@@ -441,10 +441,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-15T02:25:39Z",
+                "last_commit": "2026-08-17T23:06:28Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653
+                "stars": 77652
               }
             },
             {
@@ -472,7 +472,7 @@
                 "last_commit": "2020-11-19T05:40:57Z",
                 "owner": "donnyyou",
                 "repo": "torchcv",
-                "stars": 2251
+                "stars": 2250
               }
             },
             {
@@ -1274,7 +1274,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-12T15:53:30Z",
+                "last_commit": "2026-08-17T19:56:41Z",
                 "owner": "supervisely",
                 "repo": "supervisely",
                 "stars": 540
@@ -1410,7 +1410,7 @@
                 "last_commit": "2020-11-19T05:40:57Z",
                 "owner": "donnyyou",
                 "repo": "torchcv",
-                "stars": 2251
+                "stars": 2250
               }
             },
             {
@@ -1452,7 +1452,7 @@
                 "last_commit": "2022-04-15T20:41:57Z",
                 "owner": "hszhao",
                 "repo": "PSPNet",
-                "stars": 1661
+                "stars": 1662
               }
             },
             {
@@ -2187,7 +2187,7 @@
                 "last_commit": "2020-11-19T05:40:57Z",
                 "owner": "donnyyou",
                 "repo": "torchcv",
-                "stars": 2251
+                "stars": 2250
               }
             }
           ]
@@ -2397,7 +2397,7 @@
                 "last_commit": "2025-08-25T15:03:35Z",
                 "owner": "MrGiovanni",
                 "repo": "UNetPlusPlus",
-                "stars": 2678
+                "stars": 2679
               }
             },
             {
@@ -2599,7 +2599,7 @@
                 "last_commit": "2024-08-21T02:01:07Z",
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32880
+                "stars": 32882
               }
             },
             {
@@ -3170,7 +3170,7 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25219
+                "stars": 25221
               }
             },
             {
@@ -3205,7 +3205,7 @@
                 "last_commit": "2024-11-04T18:13:20Z",
                 "owner": "NVIDIA",
                 "repo": "pix2pixHD",
-                "stars": 6924
+                "stars": 6923
               }
             }
           ]
@@ -3330,7 +3330,7 @@
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18404
+            "stars": 18406
           }
         },
         {
@@ -3378,7 +3378,7 @@
             "last_commit": "2026-08-17T01:43:34Z",
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
-            "stars": 11695
+            "stars": 11697
           }
         },
         {
@@ -3392,7 +3392,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9918
+            "stars": 9919
           }
         },
         {
@@ -3647,10 +3647,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T07:34:38Z",
+            "last_commit": "2026-08-17T18:45:04Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16538
+            "stars": 16539
           }
         },
         {
@@ -3661,10 +3661,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T04:11:43Z",
+            "last_commit": "2026-08-18T07:21:11Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16106
+            "stars": 16110
           }
         },
         {
@@ -3678,7 +3678,7 @@
             "last_commit": "2023-03-29T09:14:05Z",
             "owner": "CSAILVision",
             "repo": "LabelMeAnnotationTool",
-            "stars": 1467
+            "stars": 1468
           }
         },
         {
@@ -4196,7 +4196,7 @@
             "last_commit": "2026-06-04T14:59:54Z",
             "owner": "azavea",
             "repo": "raster-vision",
-            "stars": 2238
+            "stars": 2239
           }
         },
         {
@@ -4573,7 +4573,7 @@
                 "last_commit": "2021-06-06T12:09:47Z",
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10653
+                "stars": 10654
               }
             },
             {
@@ -4748,7 +4748,7 @@
             "last_commit": "2026-08-14T17:42:21Z",
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64233
+            "stars": 64239
           }
         },
         {
@@ -4762,7 +4762,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11182
+            "stars": 11183
           }
         },
         {
@@ -4776,7 +4776,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11182
+            "stars": 11183
           }
         },
         {
@@ -4916,7 +4916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:37:23.135Z",
+    "last_updated": "2026-08-18T07:23:13.953Z",
     "original_repository": "mrgloom/awesome-semantic-segmentation",
     "original_repository_sha": "9278d7ab0ddc581c577c8e147e5f5d6e060c00f8",
     "enhanced_repository": "enhansome/enhansome-semantic-segmentation",
