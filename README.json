@@ -471,7 +471,7 @@
                     "last_commit": "2026-08-17T23:06:28Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77650
+                    "stars": 77651
                   }
                 },
                 {
@@ -2770,7 +2770,7 @@
                     "last_commit": "2024-06-07T02:36:21Z",
                     "owner": "matterport",
                     "repo": "Mask_RCNN",
-                    "stars": 25565
+                    "stars": 25567
                   }
                 },
                 {
@@ -3577,7 +3577,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9919
+            "stars": 9920
           }
         },
         {
@@ -3592,7 +3592,7 @@
             "last_commit": "2026-02-05T16:49:17Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9374
+            "stars": 9375
           }
         },
         {
@@ -3850,10 +3850,10 @@
             "archived": false,
             "id": 139156354,
             "language": "Python",
-            "last_commit": "2026-08-18T19:28:08Z",
+            "last_commit": "2026-08-19T12:13:58Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16544
+            "stars": 16547
           }
         },
         {
@@ -3868,7 +3868,7 @@
             "last_commit": "2026-08-19T00:32:09Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16109
+            "stars": 16110
           }
         },
         {
@@ -4584,7 +4584,7 @@
             "last_commit": "2023-03-28T00:13:06Z",
             "owner": "ndrplz",
             "repo": "self-driving-car",
-            "stars": 2922
+            "stars": 2923
           }
         },
         {
@@ -5159,8 +5159,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:24:22.338Z",
+    "last_updated": "2026-08-19T12:53:33.429Z",
     "original_repository": "mrgloom/awesome-semantic-segmentation",
+    "original_repository_id": 43595048,
     "original_repository_sha": "9278d7ab0ddc581c577c8e147e5f5d6e060c00f8",
     "enhanced_repository": "enhansome/enhansome-semantic-segmentation",
     "enhanced_repository_description": null,
