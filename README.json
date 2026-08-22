@@ -468,10 +468,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-21T05:54:38Z",
+                    "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77646
+                    "stars": 77648
                   }
                 },
                 {
@@ -703,7 +703,7 @@
                     "last_commit": "2023-10-25T21:28:33Z",
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20809
+                    "stars": 20810
                   }
                 },
                 {
@@ -1256,7 +1256,7 @@
                     "last_commit": "2024-01-15T14:26:43Z",
                     "owner": "CSAILVision",
                     "repo": "semantic-segmentation-pytorch",
-                    "stars": 5077
+                    "stars": 5076
                   }
                 },
                 {
@@ -1357,7 +1357,7 @@
                     "archived": false,
                     "id": 140302908,
                     "language": "Python",
-                    "last_commit": "2026-08-17T19:56:41Z",
+                    "last_commit": "2026-08-21T19:11:46Z",
                     "owner": "supervisely",
                     "repo": "supervisely",
                     "stars": 540
@@ -1812,7 +1812,7 @@
                     "id": 63996652,
                     "language": "Matlab",
                     "last_commit": "2016-12-02T05:32:22Z",
-                    "owner": "golnazghiasi",
+                    "owner": "g0lnaz",
                     "repo": "LRR",
                     "stars": 59
                   }
@@ -2755,7 +2755,7 @@
                     "last_commit": "2024-08-21T02:01:07Z",
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32888
+                    "stars": 32889
                   }
                 },
                 {
@@ -3348,7 +3348,7 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25224
+                "stars": 25226
               }
             },
             {
@@ -3511,7 +3511,7 @@
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18412
+            "stars": 18414
           }
         },
         {
@@ -3562,7 +3562,7 @@
             "last_commit": "2026-08-17T01:43:34Z",
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
-            "stars": 11701
+            "stars": 11702
           }
         },
         {
@@ -3577,7 +3577,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9922
+            "stars": 9924
           }
         },
         {
@@ -3607,7 +3607,7 @@
             "last_commit": "2024-01-15T14:26:43Z",
             "owner": "CSAILVision",
             "repo": "semantic-segmentation-pytorch",
-            "stars": 5077
+            "stars": 5076
           }
         },
         {
@@ -3850,10 +3850,10 @@
             "archived": false,
             "id": 139156354,
             "language": "Python",
-            "last_commit": "2026-08-20T22:41:11Z",
+            "last_commit": "2026-08-21T13:28:58Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16559
+            "stars": 16568
           }
         },
         {
@@ -3865,10 +3865,10 @@
             "archived": false,
             "id": 58374888,
             "language": "Python",
-            "last_commit": "2026-08-19T00:32:09Z",
+            "last_commit": "2026-08-21T08:42:34Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16120
+            "stars": 16121
           }
         },
         {
@@ -4057,7 +4057,7 @@
                 "last_commit": "2023-10-25T21:28:33Z",
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20809
+                "stars": 20810
               }
             },
             {
@@ -4384,7 +4384,7 @@
                 "last_commit": "2023-11-19T22:52:15Z",
                 "owner": "beamandrew",
                 "repo": "medical-data",
-                "stars": 6021
+                "stars": 6022
               }
             }
           ]
@@ -4796,7 +4796,7 @@
                 "last_commit": "2021-06-06T12:09:47Z",
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10655
+                "stars": 10654
               }
             },
             {
@@ -4977,10 +4977,10 @@
             "archived": false,
             "id": 33015583,
             "language": "Python",
-            "last_commit": "2026-08-21T03:27:03Z",
+            "last_commit": "2026-08-21T23:10:41Z",
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64241
+            "stars": 64245
           }
         },
         {
@@ -5159,7 +5159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:27:24.458Z",
+    "last_updated": "2026-08-22T07:17:44.515Z",
     "original_repository": "mrgloom/awesome-semantic-segmentation",
     "original_repository_id": 43595048,
     "original_repository_sha": "9278d7ab0ddc581c577c8e147e5f5d6e060c00f8",
