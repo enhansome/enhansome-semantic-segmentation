@@ -97,7 +97,7 @@
                     "last_commit": "2025-02-23T19:05:28Z",
                     "owner": "yassouali",
                     "repo": "pytorch-segmentation",
-                    "stars": 1817
+                    "stars": 1818
                   }
                 },
                 {
@@ -269,7 +269,7 @@
                     "last_commit": "2025-02-23T19:05:28Z",
                     "owner": "yassouali",
                     "repo": "pytorch-segmentation",
-                    "stars": 1817
+                    "stars": 1818
                   }
                 },
                 {
@@ -486,7 +486,7 @@
                     "last_commit": "2021-09-27T01:43:43Z",
                     "owner": "msracver",
                     "repo": "Deformable-ConvNets",
-                    "stars": 4120
+                    "stars": 4121
                   }
                 },
                 {
@@ -501,7 +501,7 @@
                     "last_commit": "2020-11-19T05:40:57Z",
                     "owner": "donnyyou",
                     "repo": "torchcv",
-                    "stars": 2250
+                    "stars": 2251
                   }
                 },
                 {
@@ -516,7 +516,7 @@
                     "last_commit": "2025-02-23T19:05:28Z",
                     "owner": "yassouali",
                     "repo": "pytorch-segmentation",
-                    "stars": 1817
+                    "stars": 1818
                   }
                 },
                 {
@@ -748,7 +748,7 @@
                     "last_commit": "2025-02-23T19:05:28Z",
                     "owner": "yassouali",
                     "repo": "pytorch-segmentation",
-                    "stars": 1817
+                    "stars": 1818
                   }
                 },
                 {
@@ -1055,7 +1055,7 @@
                     "last_commit": "2025-02-23T19:05:28Z",
                     "owner": "yassouali",
                     "repo": "pytorch-segmentation",
-                    "stars": 1817
+                    "stars": 1818
                   }
                 },
                 {
@@ -1256,7 +1256,7 @@
                     "last_commit": "2024-01-15T14:26:43Z",
                     "owner": "CSAILVision",
                     "repo": "semantic-segmentation-pytorch",
-                    "stars": 5076
+                    "stars": 5078
                   }
                 },
                 {
@@ -1501,7 +1501,7 @@
                     "last_commit": "2020-11-19T05:40:57Z",
                     "owner": "donnyyou",
                     "repo": "torchcv",
-                    "stars": 2250
+                    "stars": 2251
                   }
                 },
                 {
@@ -1516,7 +1516,7 @@
                     "last_commit": "2025-02-23T19:05:28Z",
                     "owner": "yassouali",
                     "repo": "pytorch-segmentation",
-                    "stars": 1817
+                    "stars": 1818
                   }
                 },
                 {
@@ -1762,7 +1762,7 @@
                     "last_commit": "2025-02-23T19:05:28Z",
                     "owner": "yassouali",
                     "repo": "pytorch-segmentation",
-                    "stars": 1817
+                    "stars": 1818
                   }
                 },
                 {
@@ -1836,7 +1836,7 @@
                     "last_commit": "2025-02-23T19:05:28Z",
                     "owner": "yassouali",
                     "repo": "pytorch-segmentation",
-                    "stars": 1817
+                    "stars": 1818
                   }
                 },
                 {
@@ -2138,7 +2138,7 @@
                     "last_commit": "2024-12-23T11:42:23Z",
                     "owner": "CASIA-IVA-Lab",
                     "repo": "DANet",
-                    "stars": 2462
+                    "stars": 2463
                   }
                 }
               ]
@@ -2322,7 +2322,7 @@
                     "last_commit": "2020-11-19T05:40:57Z",
                     "owner": "donnyyou",
                     "repo": "torchcv",
-                    "stars": 2250
+                    "stars": 2251
                   }
                 }
               ]
@@ -2755,7 +2755,7 @@
                     "last_commit": "2024-08-21T02:01:07Z",
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32889
+                    "stars": 32888
                   }
                 },
                 {
@@ -3155,6 +3155,35 @@
           "description": null,
           "node_type": "group",
           "title": "Instance aware segmentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "SEC [https://arxiv.org/pdf/1603.06098.pdf",
+              "description": "]",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/kolesman/SEC",
+                  "description": "[Caffe]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63070401,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2018-01-23T21:11:58Z",
+                    "owner": "akolesnikoff",
+                    "repo": "SEC",
+                    "stars": 247
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Weakly-supervised segmentation"
         }
       ],
       "title": "Networks by architecture"
@@ -3363,7 +3392,7 @@
                 "last_commit": "2021-02-02T06:39:22Z",
                 "owner": "affinelayer",
                 "repo": "pix2pix-tensorflow",
-                "stars": 5082
+                "stars": 5081
               }
             }
           ]
@@ -3577,7 +3606,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9929
+            "stars": 9928
           }
         },
         {
@@ -3592,7 +3621,7 @@
             "last_commit": "2026-02-05T16:49:17Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9377
+            "stars": 9378
           }
         },
         {
@@ -3607,7 +3636,7 @@
             "last_commit": "2024-01-15T14:26:43Z",
             "owner": "CSAILVision",
             "repo": "semantic-segmentation-pytorch",
-            "stars": 5076
+            "stars": 5078
           }
         },
         {
@@ -3697,7 +3726,7 @@
             "last_commit": "2025-02-23T19:05:28Z",
             "owner": "yassouali",
             "repo": "pytorch-segmentation",
-            "stars": 1817
+            "stars": 1818
           }
         },
         {
@@ -3757,7 +3786,7 @@
             "last_commit": "2024-07-25T10:13:49Z",
             "owner": "openseg-group",
             "repo": "openseg.pytorch",
-            "stars": 1236
+            "stars": 1237
           }
         },
         {
@@ -3843,6 +3872,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "[Cityscapes dataset] https://github.com/phillipi/pix2pix/tree/master/scripts/eval_cityscapes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73968389,
+            "language": "Lua",
+            "last_commit": "2021-06-06T12:09:47Z",
+            "owner": "phillipi",
+            "repo": "pix2pix",
+            "stars": 10653
+          }
+        }
+      ],
+      "title": "Evaluation code"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/mrgloom/keras-semantic-segmentation-example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100851645,
+            "language": "Python",
+            "last_commit": "2018-06-23T22:16:31Z",
+            "owner": "mrgloom",
+            "repo": "keras-semantic-segmentation-example",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Starter code"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "https://github.com/opencv/cvat",
           "description": null,
           "children": [],
@@ -3850,10 +3921,10 @@
             "archived": false,
             "id": 139156354,
             "language": "Python",
-            "last_commit": "2026-08-24T06:49:32Z",
+            "last_commit": "2026-08-24T11:36:15Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16583
+            "stars": 16586
           }
         },
         {
@@ -3865,10 +3936,10 @@
             "archived": false,
             "id": 58374888,
             "language": "Python",
-            "last_commit": "2026-08-23T01:24:11Z",
+            "last_commit": "2026-08-24T13:52:57Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16123
+            "stars": 16124
           }
         },
         {
@@ -3948,6 +4019,48 @@
         }
       ],
       "title": "Annotation Tools:"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/martinkersner/py_img_seg_eval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47112025,
+            "language": "Python",
+            "last_commit": "2016-03-03T07:46:14Z",
+            "owner": "martinkersner",
+            "repo": "py-img-seg-eval",
+            "stars": 285
+          }
+        }
+      ],
+      "title": "Metrics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/JunMa11/SegLoss",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189437648,
+            "language": "Python",
+            "last_commit": "2023-11-01T23:10:13Z",
+            "owner": "JunMa11",
+            "repo": "SegLossOdyssey",
+            "stars": 4008
+          }
+        }
+      ],
+      "title": "Losses"
     },
     {
       "description": null,
@@ -4236,7 +4349,7 @@
                 "last_commit": "2022-02-24T19:00:58Z",
                 "owner": "lishen",
                 "repo": "end2end-all-conv",
-                "stars": 393
+                "stars": 394
               }
             },
             {
@@ -4384,7 +4497,7 @@
                 "last_commit": "2023-11-19T22:52:15Z",
                 "owner": "beamandrew",
                 "repo": "medical-data",
-                "stars": 6023
+                "stars": 6024
               }
             }
           ]
@@ -4529,6 +4642,43 @@
             "repo": "sat-seg",
             "stars": 9
           }
+        },
+        {
+          "node_type": "group",
+          "title": "Data:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/chrieke/awesome-satellite-imagery-datasets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 131768562,
+                "language": null,
+                "last_commit": "2022-07-14T18:02:46Z",
+                "owner": "chrieke",
+                "repo": "awesome-satellite-imagery-datasets",
+                "stars": 3915
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88589156,
+                "language": null,
+                "last_commit": "2019-04-30T08:04:48Z",
+                "owner": "RSIA-LIESMARS-WHU",
+                "repo": "RSOD-Dataset-",
+                "stars": 217
+              }
+            }
+          ]
         }
       ],
       "title": "Satellite images segmentation"
@@ -4796,7 +4946,7 @@
                 "last_commit": "2021-06-06T12:09:47Z",
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10654
+                "stars": 10653
               }
             },
             {
@@ -5159,7 +5309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:43:05.782Z",
+    "last_updated": "2026-08-24T13:55:47.994Z",
     "original_repository": "mrgloom/awesome-semantic-segmentation",
     "original_repository_id": 43595048,
     "original_repository_sha": "9278d7ab0ddc581c577c8e147e5f5d6e060c00f8",
