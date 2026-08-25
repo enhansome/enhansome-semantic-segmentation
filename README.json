@@ -12,7 +12,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/zhixuhao/unet",
+                  "title": "zhixuhao/unet",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -27,7 +27,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/qubvel/segmentation_models",
+                  "title": "qubvel/segmentation_models",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -42,7 +42,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/LeeJunHyun/Image_Segmentation#u-net",
+                  "title": "LeeJunHyun/Image_Segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -57,7 +57,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/divamgupta/image-segmentation-keras",
+                  "title": "divamgupta/image-segmentation-keras",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -72,7 +72,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/jakeret/tf_unet",
+                  "title": "jakeret/tf_unet",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -87,7 +87,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/yassouali/pytorch_segmentation",
+                  "title": "yassouali/pytorch-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -102,7 +102,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+                  "title": "zijundeng/pytorch-semantic-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -117,7 +117,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/orobix/retina-unet",
+                  "title": "orobix/retina-unet",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -132,7 +132,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ternaus/TernausNet",
+                  "title": "ternaus/TernausNet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -147,7 +147,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/jocicmarko/ultrasound-nerve-segmentation",
+                  "title": "jocicmarko/ultrasound-nerve-segmentation",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -157,12 +157,12 @@
                     "last_commit": "2018-10-11T17:58:13Z",
                     "owner": "jocicmarko",
                     "repo": "ultrasound-nerve-segmentation",
-                    "stars": 944
+                    "stars": 943
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/akirasosa/mobile-semantic-segmentation",
+                  "title": "akirasosa/mobile-semantic-segmentation",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -177,7 +177,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/yihui-he/u-net",
+                  "title": "ethanhe42/u-net",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -192,7 +192,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model",
+                  "title": "ZFTurbo/ZF_UNET_224_Pretrained_Model",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -207,7 +207,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/EdwardTyantov/ultrasound-nerve-segmentation",
+                  "title": "EdwardTyantov/ultrasound-nerve-segmentation",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -222,7 +222,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/qureai/ultrasound-nerve-segmentation-using-torchnet",
+                  "title": "qureai/ultrasound-nerve-segmentation-using-torchnet",
                   "description": "[Torch]",
                   "children": [],
                   "repo_info": {
@@ -244,7 +244,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/divamgupta/image-segmentation-keras",
+                  "title": "divamgupta/image-segmentation-keras",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -259,7 +259,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/yassouali/pytorch_segmentation",
+                  "title": "yassouali/pytorch-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -274,7 +274,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+                  "title": "zijundeng/pytorch-semantic-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -289,7 +289,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/chainer/chainercv/tree/master/examples/segnet",
+                  "title": "chainer/chainercv",
                   "description": "[Chainer]",
                   "children": [],
                   "repo_info": {
@@ -299,12 +299,12 @@
                     "last_commit": "2021-07-01T16:54:50Z",
                     "owner": "chainer",
                     "repo": "chainercv",
-                    "stars": 1482
+                    "stars": 1481
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/alexgkendall/caffe-segnet",
+                  "title": "alexgkendall/caffe-segnet",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -319,7 +319,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/tkuanlun350/Tensorflow-SegNet",
+                  "title": "tkuanlun350/Tensorflow-SegNet",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -334,7 +334,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/preddy5/segnet",
+                  "title": "preddy5/segnet",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -349,7 +349,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/imlab-uiip/keras-segnet",
+                  "title": "imlab-uiip/keras-segnet",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -364,7 +364,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ykamikawa/keras-SegNet",
+                  "title": "ykamikawa/tf-keras-SegNet",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -379,7 +379,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ykamikawa/tf-keras-SegNet",
+                  "title": "ykamikawa/tf-keras-SegNet",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -394,7 +394,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/0bserver07/Keras-SegNet-Basic",
+                  "title": "0bserver07/Keras-SegNet-Basic",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -409,7 +409,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/andreaazzini/segnet",
+                  "title": "andreaazzini/segnet.tf",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -424,7 +424,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/developmentseed/caffe/tree/segnet-multi-gpu",
+                  "title": "developmentseed/caffe",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -439,7 +439,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/fedor-chervinskii/segnet-torch",
+                  "title": "fedor-chervinskii/segnet-torch",
                   "description": "[Torch]",
                   "children": [],
                   "repo_info": {
@@ -461,7 +461,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/tensorflow/models/tree/master/research/deeplab",
+                  "title": "tensorflow/models",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -476,7 +476,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/msracver/Deformable-ConvNets/tree/master/deeplab",
+                  "title": "msracver/Deformable-ConvNets",
                   "description": "[MXNet]",
                   "children": [],
                   "repo_info": {
@@ -491,7 +491,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/youansheng/torchcv",
+                  "title": "donnyyou/torchcv",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -506,7 +506,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/yassouali/pytorch_segmentation",
+                  "title": "yassouali/pytorch-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -521,7 +521,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/bonlime/keras-deeplab-v3-plus",
+                  "title": "bonlime/keras-deeplab-v3-plus",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -536,7 +536,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/DrSleep/tensorflow-deeplab-resnet",
+                  "title": "DrSleep/tensorflow-deeplab-resnet",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -551,7 +551,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/kazuto1011/deeplab-pytorch",
+                  "title": "kazuto1011/deeplab-pytorch",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -566,7 +566,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/speedinghzl/pytorch-segmentation-toolbox",
+                  "title": "speedinghzl/pytorch-segmentation-toolbox",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -581,7 +581,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/isht7/pytorch-deeplab-resnet",
+                  "title": "isht7/pytorch-deeplab-resnet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -596,7 +596,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hualin95/Deeplab-v3plus",
+                  "title": "hualin95/Deeplab-v3plus",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -611,7 +611,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/TheLegendAli/DeepLab-Context",
+                  "title": "TheLegendAli/DeepLab-Context",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -626,7 +626,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/martinkersner/train-DeepLab",
+                  "title": "martinkersner/train-DeepLab",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -641,7 +641,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/bermanmaxim/jaccardSegment",
+                  "title": "bermanmaxim/jaccardSegment",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -656,7 +656,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/chenxi116/TF-deeplab",
+                  "title": "chenxi116/TF-deeplab",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -671,7 +671,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/muyang0320/tensorflow-deeplab-resnet-crf",
+                  "title": "muyang0320/tensorflow-deeplab-resnet-crf",
                   "description": "[TensorFlow]",
                   "children": [],
                   "repo_info": {
@@ -693,7 +693,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/apache/incubator-mxnet/tree/master/example/fcn-xs",
+                  "title": "apache/mxnet",
                   "description": "[MxNet]",
                   "children": [],
                   "repo_info": {
@@ -708,7 +708,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/shelhamer/fcn.berkeleyvision.org",
+                  "title": "shelhamer/fcn.berkeleyvision.org",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -723,7 +723,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/divamgupta/image-segmentation-keras",
+                  "title": "divamgupta/image-segmentation-keras",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -738,7 +738,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/yassouali/pytorch_segmentation",
+                  "title": "yassouali/pytorch-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -753,7 +753,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/wkentaro/pytorch-fcn",
+                  "title": "wkentaro/pytorch-fcn",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -768,7 +768,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+                  "title": "zijundeng/pytorch-semantic-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -783,7 +783,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/shekkizh/FCN.tensorflow",
+                  "title": "shekkizh/FCN.tensorflow",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -798,7 +798,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/MarvinTeichmann/tensorflow-fcn",
+                  "title": "MarvinTeichmann/tensorflow-fcn",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -813,7 +813,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/aurora95/Keras-FCN",
+                  "title": "aurora95/Keras-FCN",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -828,7 +828,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ycszen/pytorch-seg",
+                  "title": "yu-changqian/pytorch-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -843,7 +843,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/wkentaro/fcn",
+                  "title": "wkentaro/fcn",
                   "description": "[Chainer]",
                   "children": [],
                   "repo_info": {
@@ -858,7 +858,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/JihongJu/keras-fcn",
+                  "title": "JihongJu/keras-fcn",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -873,7 +873,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Kaixhin/FCN-semantic-segmentation",
+                  "title": "Kaixhin/FCN-semantic-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -888,7 +888,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/vlfeat/matconvnet-fcn",
+                  "title": "vlfeat/matconvnet-fcn",
                   "description": "[MatConvNet]",
                   "children": [],
                   "repo_info": {
@@ -903,7 +903,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/mzaradzki/neuralnets/tree/master/vgg_segmentation_keras",
+                  "title": "mzaradzki/neuralnets",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -918,7 +918,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hellochick/semantic-segmentation-tensorflow",
+                  "title": "hellochick/semantic-segmentation-tensorflow",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -933,7 +933,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/pierluigiferrari/fcn8s_tensorflow",
+                  "title": "pierluigiferrari/fcn8s_tensorflow",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -948,7 +948,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/k3nt0w/FCN_via_keras",
+                  "title": "k3nt0w/FCN_via_keras",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -963,7 +963,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/simonguist/testing-fcn-for-cityscapes",
+                  "title": "simonguist/testing-fcn-for-cityscapes",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -978,7 +978,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/theduynguyen/Keras-FCN",
+                  "title": "theduynguyen/Keras-FCN",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -993,7 +993,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/seewalker/tf-pixelwise",
+                  "title": "seewalker/tf-pixelwise",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1008,7 +1008,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/muyang0320/tf-fcn",
+                  "title": "muyang0320/tf-fcn",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1023,7 +1023,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/petrama/VGGSegmentation",
+                  "title": "petrama/VGGSegmentation",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1045,7 +1045,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/yassouali/pytorch_segmentation",
+                  "title": "yassouali/pytorch-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1060,7 +1060,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/TimoSaemann/ENet",
+                  "title": "TimoSaemann/ENet",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -1075,7 +1075,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/davidtvs/PyTorch-ENet",
+                  "title": "davidtvs/PyTorch-ENet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1090,7 +1090,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/e-lab/ENet-training",
+                  "title": "e-lab/ENet-training",
                   "description": "[Torch]",
                   "children": [],
                   "repo_info": {
@@ -1105,7 +1105,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/kwotsin/TensorFlow-ENet",
+                  "title": "kwotsin/TensorFlow-ENet",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1120,7 +1120,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/fregu856/segmentation",
+                  "title": "fregu856/segmentation",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1135,7 +1135,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/PavlosMelissinos/enet-keras",
+                  "title": "PavlosMelissinos/enet-keras",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -1157,7 +1157,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/qubvel/segmentation_models",
+                  "title": "qubvel/segmentation_models",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -1172,7 +1172,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/e-lab/LinkNet",
+                  "title": "e-lab/LinkNet",
                   "description": "[Torch]",
                   "children": [],
                   "repo_info": {
@@ -1194,7 +1194,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/SimJeg/FC-DenseNet",
+                  "title": "SimJeg/FC-DenseNet",
                   "description": "[Lasagne]",
                   "children": [],
                   "repo_info": {
@@ -1209,7 +1209,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/0bserver07/One-Hundred-Layers-Tiramisu",
+                  "title": "0bserver07/One-Hundred-Layers-Tiramisu",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -1224,7 +1224,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/HasnainRaz/FC-DenseNet-TensorFlow",
+                  "title": "HasnainRaz/FC-DenseNet-TensorFlow",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1246,7 +1246,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hangzhaomit/semantic-segmentation-pytorch",
+                  "title": "CSAILVision/semantic-segmentation-pytorch",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1261,7 +1261,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/fyu/drn#semantic-image-segmentataion",
+                  "title": "fyu/drn",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1276,7 +1276,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/fyu/dilation",
+                  "title": "fyu/dilation",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -1291,7 +1291,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/nicolov/segmentation_keras",
+                  "title": "nicolov/segmentation_keras",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -1313,7 +1313,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/aayushbansal/PixelNet",
+                  "title": "aayushbansal/PixelNet",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -1335,7 +1335,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hszhao/ICNet",
+                  "title": "hszhao/ICNet",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -1350,7 +1350,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/supervisely/supervisely/tree/master/plugins/nn/icnet",
+                  "title": "supervisely/supervisely",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1365,7 +1365,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hellochick/ICNet-tensorflow",
+                  "title": "hellochick/ICNet-tensorflow",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1380,7 +1380,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/oandrienko/fast-semantic-segmentation",
+                  "title": "oandrienko/fast-semantic-segmentation",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1395,7 +1395,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/aitorzip/Keras-ICNet",
+                  "title": "aitorzip/Keras-ICNet",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -1417,7 +1417,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Eromera/erfnet_pytorch",
+                  "title": "Eromera/erfnet_pytorch",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1432,7 +1432,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Eromera/erfnet",
+                  "title": "Eromera/erfnet",
                   "description": "[Torch]",
                   "children": [],
                   "repo_info": {
@@ -1454,7 +1454,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/guosheng/refinenet",
+                  "title": "guosheng/refinenet",
                   "description": "[MatConvNet]",
                   "children": [],
                   "repo_info": {
@@ -1476,7 +1476,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/qubvel/segmentation_models",
+                  "title": "qubvel/segmentation_models",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -1491,7 +1491,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/youansheng/torchcv",
+                  "title": "donnyyou/torchcv",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1506,7 +1506,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/yassouali/pytorch_segmentation",
+                  "title": "yassouali/pytorch-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1521,7 +1521,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+                  "title": "zijundeng/pytorch-semantic-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1536,7 +1536,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hszhao/PSPNet",
+                  "title": "hszhao/PSPNet",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -1551,7 +1551,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/speedinghzl/pytorch-segmentation-toolbox",
+                  "title": "speedinghzl/pytorch-segmentation-toolbox",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1566,7 +1566,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Vladkryvoruchko/PSPNet-Keras-tensorflow",
+                  "title": "Vladkryvoruchko/PSPNet-Keras-tensorflow",
                   "description": "[Keras/Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1581,7 +1581,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hellochick/PSPNet-tensorflow",
+                  "title": "hellochick/PSPNet-tensorflow",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1596,7 +1596,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/oandrienko/fast-semantic-segmentation",
+                  "title": "oandrienko/fast-semantic-segmentation",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1611,7 +1611,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/holyseven/PSPNet-TF-Reproduce",
+                  "title": "holyseven/PSPNet-TF-Reproduce",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1626,7 +1626,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hellochick/semantic-segmentation-tensorflow",
+                  "title": "hellochick/semantic-segmentation-tensorflow",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1641,7 +1641,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/mitmul/chainer-pspnet",
+                  "title": "mitmul/chainer-pspnet",
                   "description": "[Chainer]",
                   "children": [],
                   "repo_info": {
@@ -1656,7 +1656,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/kazuto1011/pspnet-pytorch",
+                  "title": "kazuto1011/pspnet-pytorch",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1671,7 +1671,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/pudae/tensorflow-pspnet",
+                  "title": "pudae/tensorflow-pspnet",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1693,7 +1693,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/HyeonwooNoh/DeconvNet",
+                  "title": "HyeonwooNoh/DeconvNet",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -1708,7 +1708,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/fabianbormann/Tensorflow-DeconvNet-Segmentation",
+                  "title": "fabianbormann/Tensorflow-DeconvNet-Segmentation",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1730,7 +1730,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/TobyPDE/FRRN",
+                  "title": "TobyPDE/FRRN",
                   "description": "[Lasagne]",
                   "children": [],
                   "repo_info": {
@@ -1752,7 +1752,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/yassouali/pytorch_segmentation",
+                  "title": "yassouali/pytorch-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1767,7 +1767,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+                  "title": "zijundeng/pytorch-semantic-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1782,7 +1782,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ycszen/pytorch-seg",
+                  "title": "yu-changqian/pytorch-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1804,7 +1804,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/golnazghiasi/LRR",
+                  "title": "g0lnaz/LRR",
                   "description": "[Matconvnet]",
                   "children": [],
                   "repo_info": {
@@ -1826,7 +1826,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/yassouali/pytorch_segmentation",
+                  "title": "yassouali/pytorch-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1841,7 +1841,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+                  "title": "zijundeng/pytorch-semantic-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1856,7 +1856,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ycszen/pytorch-seg",
+                  "title": "yu-changqian/pytorch-segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1878,7 +1878,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/MarvinTeichmann/KittiSeg",
+                  "title": "MarvinTeichmann/KittiSeg",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1893,7 +1893,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/MarvinTeichmann/MultiNet",
+                  "title": "MarvinTeichmann/MultiNet",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1915,7 +1915,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/aharley/segaware",
+                  "title": "aharley/segaware",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -1937,7 +1937,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks",
+                  "title": "oyam/Semantic-Segmentation-using-Adversarial-Networks",
                   "description": "[Chainer]",
                   "children": [],
                   "repo_info": {
@@ -1959,7 +1959,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/HongyangGao/PixelDCN",
+                  "title": "HongyangGao/PixelTCN",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -1981,7 +1981,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/MSiam/TFSegmentation",
+                  "title": "MSiam/TFSegmentation",
                   "description": "[TensorFlow]",
                   "children": [],
                   "repo_info": {
@@ -2003,7 +2003,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/wasidennis/AdaptSegNet",
+                  "title": "wasidennis/AdaptSegNet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2025,7 +2025,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/TuSimple/TuSimple-DUC",
+                  "title": "TuSimple/TuSimple-DUC",
                   "description": "[MxNet]",
                   "children": [],
                   "repo_info": {
@@ -2047,7 +2047,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/qubvel/segmentation_models",
+                  "title": "qubvel/segmentation_models",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -2069,7 +2069,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/LeeJunHyun/Image_Segmentation#r2u-net",
+                  "title": "LeeJunHyun/Image_Segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2091,7 +2091,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/LeeJunHyun/Image_Segmentation#attention-u-net",
+                  "title": "LeeJunHyun/Image_Segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2106,7 +2106,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ozan-oktay/Attention-Gated-Networks",
+                  "title": "ozan-oktay/Attention-Gated-Networks",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2128,7 +2128,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/junfu1115/DANet",
+                  "title": "CASIA-IVA-Lab/DANet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2150,7 +2150,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/juntang-zhuang/ShelfNet",
+                  "title": "juntang-zhuang/ShelfNet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2172,7 +2172,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/juntang-zhuang/LadderNet",
+                  "title": "juntang-zhuang/LadderNet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2194,7 +2194,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/zllrunning/face-parsing.PyTorch",
+                  "title": "zllrunning/face-parsing.PyTorch",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2209,7 +2209,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ycszen/TorchSeg",
+                  "title": "yu-changqian/TorchSeg",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2224,7 +2224,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ooooverflow/BiSeNet",
+                  "title": "ooooverflow/BiSeNet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2246,7 +2246,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/sacmehta/ESPNet",
+                  "title": "sacmehta/ESPNet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2268,7 +2268,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ycszen/TorchSeg",
+                  "title": "yu-changqian/TorchSeg",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2290,7 +2290,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/speedinghzl/CCNet",
+                  "title": "speedinghzl/CCNet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2312,7 +2312,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/youansheng/torchcv",
+                  "title": "donnyyou/torchcv",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2334,7 +2334,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/DeepVoltaire/Fast-SCNN",
+                  "title": "DeepVoltaire/Fast-SCNN",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2356,7 +2356,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/HRNet/HRNet-Semantic-Segmentation",
+                  "title": "HRNet/HRNet-Semantic-Segmentation",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2378,7 +2378,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hszhao/PSANet",
+                  "title": "hszhao/PSANet",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -2400,7 +2400,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/uber-research/UPSNet",
+                  "title": "uber-research/UPSNet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2422,7 +2422,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/MarvinTeichmann/ConvCRF",
+                  "title": "MarvinTeichmann/ConvCRF",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2444,7 +2444,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/sinAshish/Multi-Scale-Attention",
+                  "title": "sinAshish/Multi-Scale-Attention",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2466,7 +2466,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/huaifeng1993/DFANet",
+                  "title": "huaifeng1993/DFANet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2488,7 +2488,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/HYOJINPARK/ExtPortraitSeg",
+                  "title": "HYOJINPARK/ExtPortraitSeg",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2510,7 +2510,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/zhanghang1989/PyTorch-Encoding",
+                  "title": "zhanghang1989/PyTorch-Encoding",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2532,14 +2532,14 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/MrGiovanni/UNetPlusPlus",
+                  "title": "MrGiovanni/UNetPlusPlus",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 129793058,
                     "language": "Python",
-                    "last_commit": "2025-08-25T15:03:35Z",
+                    "last_commit": "2026-08-24T23:45:55Z",
                     "owner": "MrGiovanni",
                     "repo": "UNetPlusPlus",
                     "stars": 2679
@@ -2547,7 +2547,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/4uiiurz1/pytorch-nested-unet",
+                  "title": "4uiiurz1/pytorch-nested-unet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2569,7 +2569,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/wuhuikai/FastFCN",
+                  "title": "wuhuikai/FastFCN",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2591,7 +2591,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/dong-x16/PortraitNet",
+                  "title": "dong-x16/PortraitNet",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2613,7 +2613,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/nv-tlabs/gscnn",
+                  "title": "nv-tlabs/GSCNN",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2657,7 +2657,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/msracver/FCIS",
+                  "title": "msracver/FCIS",
                   "description": "[MxNet]",
                   "children": [],
                   "repo_info": {
@@ -2679,7 +2679,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/daijifeng001/MNC",
+                  "title": "daijifeng001/MNC",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -2701,7 +2701,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/facebookresearch/deepmask",
+                  "title": "facebookresearch/deepmask",
                   "description": "[Torch]",
                   "children": [],
                   "repo_info": {
@@ -2723,7 +2723,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/facebookresearch/deepmask",
+                  "title": "facebookresearch/deepmask",
                   "description": "[Torch]",
                   "children": [],
                   "repo_info": {
@@ -2745,7 +2745,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/open-mmlab/mmdetection",
+                  "title": "open-mmlab/mmdetection",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2760,7 +2760,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/matterport/Mask_RCNN",
+                  "title": "matterport/Mask_RCNN",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -2770,12 +2770,12 @@
                     "last_commit": "2024-06-07T02:36:21Z",
                     "owner": "matterport",
                     "repo": "Mask_RCNN",
-                    "stars": 25565
+                    "stars": 25566
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/facebookresearch/maskrcnn-benchmark",
+                  "title": "facebookresearch/maskrcnn-benchmark",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2790,7 +2790,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/CharlesShang/FastMaskRCNN",
+                  "title": "CharlesShang/FastMaskRCNN",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -2805,7 +2805,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/TuSimple/mx-maskrcnn",
+                  "title": "TuSimple/mx-maskrcnn",
                   "description": "[MxNet]",
                   "children": [],
                   "repo_info": {
@@ -2820,7 +2820,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/jasjeetIM/Mask-RCNN",
+                  "title": "jasjeetIM/Mask-RCNN",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -2835,7 +2835,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ZFTurbo/Keras-Mask-RCNN-for-Open-Images-2019-Instance-Segmentation",
+                  "title": "ZFTurbo/Keras-Mask-RCNN-for-Open-Images-2019-Instance-Segmentation",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -2857,7 +2857,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/bernard24/RIS",
+                  "title": "bernard24/RIS",
                   "description": "[Torch]",
                   "children": [],
                   "repo_info": {
@@ -2879,7 +2879,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/voidrank/FastMask",
+                  "title": "voidrank/FastMask",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -2901,7 +2901,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/dvornikita/blitznet",
+                  "title": "dvornikita/blitznet",
                   "description": "[Tensorflow]",
                   "children": [],
                   "repo_info": {
@@ -2923,7 +2923,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ShuLiu1993/PANet",
+                  "title": "ShuLiu1993/PANet",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -2945,7 +2945,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch",
+                  "title": "JiaweiWang-AI/Pyramid-Attention-Networks-pytorch",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2967,7 +2967,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ternaus/TernausNetV2",
+                  "title": "ternaus/TernausNetV2",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -2989,7 +2989,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/zjhuang22/maskscoring_rcnn",
+                  "title": "zjhuang22/maskscoring_rcnn",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -3011,7 +3011,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/liruilong940607/Pose2Seg",
+                  "title": "liruilong940607/Pose2Seg",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -3033,7 +3033,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/dbolya/yolact",
+                  "title": "dbolya/yolact",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -3055,7 +3055,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/youngwanLEE/CenterMask",
+                  "title": "youngwanLEE/CenterMask",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -3070,7 +3070,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/youngwanLEE/centermask2",
+                  "title": "youngwanLEE/centermask2",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -3092,7 +3092,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/GothicAi/Instaboost",
+                  "title": "GothicAi/Instaboost",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -3114,7 +3114,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/WXinlong/SOLO",
+                  "title": "WXinlong/SOLO",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -3136,7 +3136,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/WXinlong/SOLO",
+                  "title": "WXinlong/SOLO",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -3165,7 +3165,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/kolesman/SEC",
+                  "title": "akolesnikoff/SEC",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -3198,7 +3198,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/fvisin/reseg",
+              "title": "fvisin/reseg",
               "description": "[Lasagne]",
               "children": [],
               "repo_info": {
@@ -3220,7 +3220,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/fvisin/reseg",
+              "title": "fvisin/reseg",
               "description": "[Lasagne]",
               "children": [],
               "repo_info": {
@@ -3235,7 +3235,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Wizaron/reseg-pytorch",
+              "title": "Wizaron/reseg-pytorch",
               "description": "[PyTorch]",
               "children": [],
               "repo_info": {
@@ -3257,7 +3257,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/bernard24/RIS",
+              "title": "bernard24/RIS",
               "description": "[Torch]",
               "children": [],
               "repo_info": {
@@ -3279,7 +3279,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/torrvision/crfasrnn",
+              "title": "torrvision/crfasrnn",
               "description": "[Caffe]",
               "children": [],
               "repo_info": {
@@ -3294,7 +3294,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/sadeepj/crfasrnn_keras",
+              "title": "sadeepj/crfasrnn_keras",
               "description": "[Keras]",
               "children": [],
               "repo_info": {
@@ -3309,7 +3309,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/martinkersner/train-CRF-RNN",
+              "title": "martinkersner/train-CRF-RNN",
               "description": "[Caffe]",
               "children": [],
               "repo_info": {
@@ -3324,7 +3324,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/renmengye/rec-attend-public",
+              "title": "renmengye/rec-attend-public",
               "description": "[Tensorflow]",
               "children": [],
               "repo_info": {
@@ -3339,7 +3339,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/NP-coder/CLPS1520Project",
+              "title": "andrewhou1/CLPS1520Project",
               "description": "[Tensorflow]",
               "children": [],
               "repo_info": {
@@ -3367,7 +3367,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+              "title": "junyanz/pytorch-CycleGAN-and-pix2pix",
               "description": "[Pytorch]",
               "children": [],
               "repo_info": {
@@ -3377,12 +3377,12 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25226
+                "stars": 25228
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/affinelayer/pix2pix-tensorflow",
+              "title": "affinelayer/pix2pix-tensorflow",
               "description": "[Tensorflow]",
               "children": [],
               "repo_info": {
@@ -3404,7 +3404,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/NVIDIA/pix2pixHD",
+              "title": "NVIDIA/pix2pixHD",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3426,7 +3426,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/SimonKohl/probabilistic_unet",
+              "title": "SimonKohl/probabilistic_unet",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3449,7 +3449,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/lucasb-eyer/pydensecrf",
+          "title": "lucasb-eyer/pydensecrf",
           "description": null,
           "children": [],
           "repo_info": {
@@ -3464,7 +3464,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/tpeng/python-crfsuite",
+          "title": "scrapinghub/python-crfsuite",
           "description": null,
           "children": [],
           "repo_info": {
@@ -3479,7 +3479,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/chokkan/crfsuite",
+          "title": "chokkan/crfsuite",
           "description": null,
           "children": [],
           "repo_info": {
@@ -3494,7 +3494,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/cvlab-epfl/densecrf",
+          "title": "cvlab-epfl/densecrf",
           "description": null,
           "children": [],
           "repo_info": {
@@ -3509,7 +3509,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jliemansifry/super-simple-semantic-segmentation",
+          "title": "jliemansifry/semantic-segmentation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -3581,7 +3581,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/qubvel/segmentation_models.pytorch",
+          "title": "qubvel-org/segmentation_models.pytorch",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3596,7 +3596,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/open-mmlab/mmsegmentation",
+          "title": "open-mmlab/mmsegmentation",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3611,7 +3611,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/PaddlePaddle/PaddleSeg",
+          "title": "PaddlePaddle/PaddleSeg",
           "description": "[PaddlePaddle]",
           "children": [],
           "repo_info": {
@@ -3621,12 +3621,12 @@
             "last_commit": "2026-02-05T16:49:17Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9378
+            "stars": 9379
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/CSAILVision/semantic-segmentation-pytorch",
+          "title": "CSAILVision/semantic-segmentation-pytorch",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3641,7 +3641,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/qubvel/segmentation_models",
+          "title": "qubvel/segmentation_models",
           "description": "[Keras]",
           "children": [],
           "repo_info": {
@@ -3656,7 +3656,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/meetshah1995/pytorch-semseg",
+          "title": "meetps/pytorch-semseg",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3671,7 +3671,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Tramac/awesome-semantic-segmentation-pytorch",
+          "title": "Tramac/awesome-semantic-segmentation-pytorch",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3686,7 +3686,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/divamgupta/image-segmentation-keras",
+          "title": "divamgupta/image-segmentation-keras",
           "description": "[Keras]",
           "children": [],
           "repo_info": {
@@ -3701,7 +3701,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/GeorgeSeif/Semantic-Segmentation-Suite",
+          "title": "GeorgeSeif/Semantic-Segmentation-Suite",
           "description": "[Tensorflow]",
           "children": [],
           "repo_info": {
@@ -3716,7 +3716,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/yassouali/pytorch_segmentation",
+          "title": "yassouali/pytorch-segmentation",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3731,7 +3731,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ZijunDeng/pytorch-semantic-segmentation",
+          "title": "zijundeng/pytorch-semantic-segmentation",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3746,7 +3746,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ycszen/TorchSeg",
+          "title": "yu-changqian/TorchSeg",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3761,7 +3761,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hszhao/semseg",
+          "title": "hszhao/semseg",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3776,7 +3776,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/openseg-group/openseg.pytorch",
+          "title": "openseg-group/openseg.pytorch",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3791,7 +3791,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/warmspringwinds/pytorch-segmentation-detection",
+          "title": "warmspringwinds/pytorch-segmentation-detection",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3806,7 +3806,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MSiam/TFSegmentation",
+          "title": "MSiam/TFSegmentation",
           "description": "[Tensorflow]",
           "children": [],
           "repo_info": {
@@ -3821,7 +3821,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/thuyngch/Human-Segmentation-PyTorch",
+          "title": "thuyngch/Human-Segmentation-PyTorch",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3836,7 +3836,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/CSAILVision/sceneparsing",
+          "title": "CSAILVision/sceneparsing",
           "description": "[Caffe+Matlab]",
           "children": [],
           "repo_info": {
@@ -3851,7 +3851,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/BloodAxe/segmentation-networks-benchmark",
+          "title": "BloodAxe/segmentation-networks-benchmark",
           "description": "[PyTorch]",
           "children": [],
           "repo_info": {
@@ -3893,7 +3893,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/mrgloom/keras-semantic-segmentation-example",
+          "title": "mrgloom/keras-semantic-segmentation-example",
           "description": null,
           "children": [],
           "repo_info": {
@@ -3914,29 +3914,29 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/opencv/cvat",
+          "title": "cvat-ai/cvat",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 139156354,
             "language": "Python",
-            "last_commit": "2026-08-24T11:36:15Z",
+            "last_commit": "2026-08-25T05:17:20Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16586
+            "stars": 16590
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wkentaro/labelme",
+          "title": "wkentaro/labelme",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 58374888,
             "language": "Python",
-            "last_commit": "2026-08-24T13:52:57Z",
+            "last_commit": "2026-08-25T05:30:52Z",
             "owner": "wkentaro",
             "repo": "labelme",
             "stars": 16124
@@ -3944,7 +3944,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/CSAILVision/LabelMeAnnotationTool",
+          "title": "CSAILVision/LabelMeAnnotationTool",
           "description": null,
           "children": [],
           "repo_info": {
@@ -3959,7 +3959,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kyamagu/js-segment-annotator",
+          "title": "kyamagu/js-segment-annotator",
           "description": null,
           "children": [],
           "repo_info": {
@@ -3974,7 +3974,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/lzx1413/labelImgPlus",
+          "title": "lzx1413/labelImgPlus",
           "description": null,
           "children": [],
           "repo_info": {
@@ -3989,7 +3989,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Deep-Magic/COCO-Style-Dataset-Generator-GUI",
+          "title": "hanskrupakar/COCO-Style-Dataset-Generator-GUI",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4004,7 +4004,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/seanbell/opensurfaces-segmentation-ui",
+          "title": "seanbell/opensurfaces-segmentation-ui",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4025,7 +4025,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/martinkersner/py_img_seg_eval",
+          "title": "martinkersner/py-img-seg-eval",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4046,7 +4046,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/JunMa11/SegLoss",
+          "title": "JunMa11/SegLossOdyssey",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4067,7 +4067,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/tangzhenyu/SemanticSegmentation_DL",
+          "title": "tangzhenyu/SemanticSegmentation_DL",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4082,7 +4082,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nightrome/really-awesome-semantic-segmentation",
+          "title": "nightrome/really-awesome-semantic-segmentation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4097,7 +4097,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/JackieZhangdx/InstanceSegmentationList",
+          "title": "JackieZhangdx/InstanceSegmentationList",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4112,7 +4112,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/damminhtien/awesome-semantic-segmentation",
+          "title": "damminhtien/awesome-semantic-segmentation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4138,7 +4138,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/NVIDIA/DIGITS/tree/master/examples/medical-imaging",
+              "title": "NVIDIA/DIGITS",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4160,7 +4160,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/dmlc/mxnet/issues/1514",
+              "title": "apache/mxnet",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4175,7 +4175,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/orobix/retina-unet",
+              "title": "orobix/retina-unet",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4190,7 +4190,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/imlab-uiip/lung-segmentation-2d",
+              "title": "imlab-uiip/lung-segmentation-2d",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4205,7 +4205,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/fvisin/reseg",
+              "title": "fvisin/reseg",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4220,7 +4220,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/WeidiXie/cell_counting_v2",
+              "title": "WeidiXie/cell_counting_v2",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4235,7 +4235,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/yandexdataschool/YSDA_deeplearning17/blob/master/Seminar6/Seminar%206%20-%20segmentation.ipynb",
+              "title": "yandexdataschool/YSDA_deeplearning17",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4250,7 +4250,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/yulequan/melanoma-recognition",
+              "title": "yulequan/melanoma-recognition",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4265,7 +4265,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/scottykwok/cervix-roi-segmentation-by-unet",
+              "title": "scottykwok/cervix-roi-segmentation-by-unet",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4280,7 +4280,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/junyanz/MCILBoost",
+              "title": "junyanz/MCILBoost",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4302,7 +4302,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/IBBM/Cascaded-FCN",
+              "title": "IBBM/Cascaded-FCN",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4324,7 +4324,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/jocicmarko/ultrasound-nerve-segmentation",
+              "title": "jocicmarko/ultrasound-nerve-segmentation",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4334,12 +4334,12 @@
                 "last_commit": "2018-10-11T17:58:13Z",
                 "owner": "jocicmarko",
                 "repo": "ultrasound-nerve-segmentation",
-                "stars": 944
+                "stars": 943
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/lishen/end2end-all-conv",
+              "title": "lishen/end2end-all-conv",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4354,7 +4354,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/EdwardTyantov/ultrasound-nerve-segmentation",
+              "title": "EdwardTyantov/ultrasound-nerve-segmentation",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4369,7 +4369,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/scottykwok/cervix-roi-segmentation-by-unet",
+              "title": "scottykwok/cervix-roi-segmentation-by-unet",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4384,7 +4384,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/intact-project/ild-cnn",
+              "title": "stergioc/ild-cnn",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4406,7 +4406,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/DLTK/DLTK/tree/master/examples/applications/MRBrainS13_tissue_segmentation",
+              "title": "DLTK/DLTK",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4421,7 +4421,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/imatge-upc/liverseg-2017-nipsws",
+              "title": "imatge-upc/liverseg-2017-nipsws",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4443,7 +4443,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/ecobost/cnn4brca",
+              "title": "ecobost/cnn4brca",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4465,7 +4465,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/albarqouni/Deep-Learning-for-Medical-Applications#segmentation",
+              "title": "albarqouni/Deep-Learning-for-Medical-Applications",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4487,7 +4487,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/beamandrew/medical-data",
+              "title": "beamandrew/medical-data",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4497,7 +4497,7 @@
                 "last_commit": "2023-11-19T22:52:15Z",
                 "owner": "beamandrew",
                 "repo": "medical-data",
-                "stars": 6024
+                "stars": 6025
               }
             }
           ]
@@ -4510,7 +4510,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/azavea/raster-vision",
+          "title": "azavea/raster-vision",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4525,7 +4525,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mapbox/robosat",
+          "title": "mapbox/robosat",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4540,7 +4540,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/trailbehind/DeepOSM",
+          "title": "trailbehind/DeepOSM",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4555,7 +4555,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nshaud/DeepNetsForEO",
+          "title": "nshaud/DeepNetsForEO",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4570,7 +4570,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/KGPML/Hyperspectral",
+          "title": "KGPML/Hyperspectral",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4585,7 +4585,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mitmul/ssai-cnn",
+          "title": "mitmul/ssai-cnn",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4600,7 +4600,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/lopuhin/kaggle-dstl",
+          "title": "lopuhin/kaggle-dstl",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4615,7 +4615,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mitmul/ssai",
+          "title": "mitmul/ssai",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4630,7 +4630,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mshivaprakash/sat-seg-thesis",
+          "title": "mshiv/sat-seg",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4650,7 +4650,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/chrieke/awesome-satellite-imagery-datasets",
+              "title": "chrieke/awesome-satellite-imagery-datasets",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4665,7 +4665,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-",
+              "title": "RSIA-LIESMARS-WHU/RSOD-Dataset-",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4688,7 +4688,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/JingchunCheng/Seg-with-SPN",
+          "title": "JingchunCheng/Seg-with-SPN",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4703,7 +4703,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/shelhamer/clockwork-fcn",
+          "title": "shelhamer/clockwork-fcn",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4724,7 +4724,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/ndrplz/self-driving-car",
+          "title": "ndrplz/self-driving-car",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4739,7 +4739,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MaybeShewill-CV/lanenet-lane-detection",
+          "title": "MaybeShewill-CV/lanenet-lane-detection",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4754,7 +4754,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MarvinTeichmann/KittiSeg",
+          "title": "MarvinTeichmann/KittiSeg",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4769,7 +4769,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MarvinTeichmann/MultiNet",
+          "title": "MarvinTeichmann/MultiNet",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4784,7 +4784,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mvirgo/MLND-Capstone",
+          "title": "mvirgo/MLND-Capstone",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4799,7 +4799,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/vxy10/p5_VehicleDetection_Unet",
+          "title": "vxy10/p5_VehicleDetection_Unet",
           "description": "[Keras]",
           "children": [],
           "repo_info": {
@@ -4814,7 +4814,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zhujun98/semantic_segmentation/tree/master/fcn8s_road",
+          "title": "zhujun98/semantic_segmentation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -4840,7 +4840,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/abbypa/NNProject_DeepMask",
+              "title": "abbypa/NNProject_DeepMask",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4855,7 +4855,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation",
+              "title": "gakarak/FCN_MSCOCO_Food_Segmentation",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4877,7 +4877,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/warmspringwinds/tf-image-segmentation",
+              "title": "warmspringwinds/tf-image-segmentation",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4899,7 +4899,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/xiaolonw/nips14_loc_seg_testonly",
+              "title": "xiaolonw/nips14_loc_seg_testonly",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4914,7 +4914,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/naibaf7/caffe_neural_tool",
+              "title": "naibaf7/caffe_neural_tool",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4936,7 +4936,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/phillipi/pix2pix",
+              "title": "phillipi/pix2pix",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4951,7 +4951,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/erogol/seg-torch",
+              "title": "erogol/seg-torch",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4973,7 +4973,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/itijyou/ademxapp",
+              "title": "itijyou/ademxapp",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5001,7 +5001,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/bharath272/sds_eccv2014",
+              "title": "bharath272/sds_eccv2014",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5023,7 +5023,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/HyeonwooNoh/DecoupledNet",
+              "title": "HyeonwooNoh/DecoupledNet",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5045,7 +5045,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/philkr/lpo",
+              "title": "philkr/lpo",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5067,7 +5067,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation",
+              "title": "NVIDIA/DIGITS",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5082,7 +5082,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/cvjena/cn24",
+              "title": "cvjena/cn24",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5097,7 +5097,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/amueller/textonboost",
+              "title": "amueller/textonboost",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5120,22 +5120,22 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/fchollet/keras/issues/6538",
+          "title": "keras-team/keras",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 33015583,
             "language": "Python",
-            "last_commit": "2026-08-21T23:10:41Z",
+            "last_commit": "2026-08-24T18:42:25Z",
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64248
+            "stars": 64249
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation",
+          "title": "kjw0612/awesome-deep-vision",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5150,7 +5150,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation",
+          "title": "kjw0612/awesome-deep-vision",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5165,7 +5165,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/warmspringwinds/pytorch-segmentation-detection",
+          "title": "warmspringwinds/pytorch-segmentation-detection",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5180,7 +5180,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nightrome/really-awesome-semantic-segmentation",
+          "title": "nightrome/really-awesome-semantic-segmentation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5195,7 +5195,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/warmspringwinds/tensorflow_notes",
+          "title": "warmspringwinds/tensorflow_notes",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5210,7 +5210,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MichaelXin/Awesome-Caffe#23-image-segmentation",
+          "title": "MichaelXin/Awesome-Caffe",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5225,7 +5225,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/neuropoly/axondeepseg",
+          "title": "axondeepseg/axondeepseg",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5240,7 +5240,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/petrochenko-pavel-a/segmentation_training_pipeline",
+          "title": "musket-ml/segmentation_training_pipeline",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5255,7 +5255,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/desimone/segmentation-models",
+          "title": "desimone/segmentation-models",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5276,7 +5276,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation",
+          "title": "NVIDIA/DIGITS",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5291,7 +5291,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation",
+          "title": "NVIDIA/DIGITS",
           "description": null,
           "children": [],
           "repo_info": {
@@ -5309,7 +5309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:55:47.994Z",
+    "last_updated": "2026-08-25T05:46:13.181Z",
     "original_repository": "mrgloom/awesome-semantic-segmentation",
     "original_repository_id": 43595048,
     "original_repository_sha": "9278d7ab0ddc581c577c8e147e5f5d6e060c00f8",
