@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,690 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,721 | 🐛 106 | 📅 2026-08-21
 
 # Awesome Semantic Segmentation with stars
 
@@ -225,7 +225,7 @@
 * SharpMask \[<https://arxiv.org/pdf/1603.08695.pdf>]
   * <https://github.com/facebookresearch/deepmask> ⚠️ Archived \[Torch]
 * Mask-RCNN \[<https://arxiv.org/pdf/1703.06870.pdf>]
-  * <https://github.com/open-mmlab/mmdetection> ⭐ 32,888 | 🐛 1,960 | 🌐 Python | 📅 2024-08-21 \[PyTorch]
+  * <https://github.com/open-mmlab/mmdetection> ⭐ 32,889 | 🐛 1,960 | 🌐 Python | 📅 2024-08-21 \[PyTorch]
   * <https://github.com/matterport/Mask_RCNN> ⭐ 25,566 | 🐛 2,022 | 🌐 Python | 📅 2024-06-07 \[Keras]
   * <https://github.com/facebookresearch/maskrcnn-benchmark> ⚠️ Archived \[PyTorch]
   * <https://github.com/CharlesShang/FastMaskRCNN> ⭐ 3,082 | 🐛 142 | 🌐 Python | 📅 2021-01-05 \[Tensorflow]
@@ -286,7 +286,7 @@
 ## GANS
 
 * pix2pix \[<https://arxiv.org/pdf/1611.07004.pdf>] \[2018]
-  * <https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix> ⭐ 25,228 | 🐛 589 | 🌐 Python | 📅 2025-08-06 \[Pytorch]
+  * <https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix> ⭐ 25,229 | 🐛 589 | 🌐 Python | 📅 2025-08-06 \[Pytorch]
   * <https://github.com/affinelayer/pix2pix-tensorflow> ⭐ 5,081 | 🐛 143 | 🌐 JavaScript | 📅 2021-02-02 \[Tensorflow]
 * pix2pixHD \[<https://arxiv.org/pdf/1711.11585.pdf>] \[2018]
   * <https://github.com/NVIDIA/pix2pixHD> ⭐ 6,923 | 🐛 247 | 🌐 Python | 📅 2024-11-04
@@ -370,7 +370,7 @@
 
 ## Annotation Tools:
 
-* <https://github.com/opencv/cvat> ⭐ 16,590 | 🐛 590 | 🌐 Python | 📅 2026-08-25
+* <https://github.com/opencv/cvat> ⭐ 16,590 | 🐛 589 | 🌐 Python | 📅 2026-08-25
 * <https://github.com/wkentaro/labelme> ⭐ 16,124 | 🐛 182 | 🌐 Python | 📅 2026-08-25
 * <https://github.com/CSAILVision/LabelMeAnnotationTool> ⭐ 1,468 | 🐛 64 | 🌐 JavaScript | 📅 2023-03-29
 * <https://github.com/kyamagu/js-segment-annotator> ⚠️ Archived

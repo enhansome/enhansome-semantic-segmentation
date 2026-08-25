@@ -2755,7 +2755,7 @@
                     "last_commit": "2024-08-21T02:01:07Z",
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32888
+                    "stars": 32889
                   }
                 },
                 {
@@ -3377,7 +3377,7 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25228
+                "stars": 25229
               }
             },
             {
@@ -3921,7 +3921,7 @@
             "archived": false,
             "id": 139156354,
             "language": "Python",
-            "last_commit": "2026-08-25T05:17:20Z",
+            "last_commit": "2026-08-25T07:26:14Z",
             "owner": "cvat-ai",
             "repo": "cvat",
             "stars": 16590
@@ -3936,7 +3936,7 @@
             "archived": false,
             "id": 58374888,
             "language": "Python",
-            "last_commit": "2026-08-25T05:30:52Z",
+            "last_commit": "2026-08-25T06:07:34Z",
             "owner": "wkentaro",
             "repo": "labelme",
             "stars": 16124
@@ -5309,7 +5309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:46:13.181Z",
+    "last_updated": "2026-08-25T07:28:27.147Z",
     "original_repository": "mrgloom/awesome-semantic-segmentation",
     "original_repository_id": 43595048,
     "original_repository_sha": "9278d7ab0ddc581c577c8e147e5f5d6e060c00f8",
