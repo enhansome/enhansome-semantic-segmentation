@@ -471,7 +471,7 @@
                     "last_commit": "2026-08-27T04:28:47Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653
+                    "stars": 77654
                   }
                 },
                 {
@@ -1357,7 +1357,7 @@
                     "archived": false,
                     "id": 140302908,
                     "language": "Python",
-                    "last_commit": "2026-08-27T11:56:11Z",
+                    "last_commit": "2026-08-27T15:51:31Z",
                     "owner": "supervisely",
                     "repo": "supervisely",
                     "stars": 541
@@ -2999,7 +2999,7 @@
                     "last_commit": "2020-11-06T08:07:33Z",
                     "owner": "zjhuang22",
                     "repo": "maskscoring_rcnn",
-                    "stars": 1895
+                    "stars": 1894
                   }
                 }
               ]
@@ -3414,7 +3414,7 @@
                 "last_commit": "2024-11-04T18:13:20Z",
                 "owner": "NVIDIA",
                 "repo": "pix2pixHD",
-                "stars": 6923
+                "stars": 6924
               }
             }
           ]
@@ -3621,7 +3621,7 @@
             "last_commit": "2026-02-05T16:49:17Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9382
+            "stars": 9383
           }
         },
         {
@@ -3921,10 +3921,10 @@
             "archived": false,
             "id": 139156354,
             "language": "Python",
-            "last_commit": "2026-08-27T11:30:29Z",
+            "last_commit": "2026-08-27T14:12:34Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16606
+            "stars": 16607
           }
         },
         {
@@ -3936,7 +3936,7 @@
             "archived": false,
             "id": 58374888,
             "language": "Python",
-            "last_commit": "2026-08-25T09:32:26Z",
+            "last_commit": "2026-08-27T13:18:57Z",
             "owner": "wkentaro",
             "repo": "labelme",
             "stars": 16131
@@ -5130,7 +5130,7 @@
             "last_commit": "2026-08-26T22:12:59Z",
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64255
+            "stars": 64258
           }
         },
         {
@@ -5309,7 +5309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:56.226Z",
+    "last_updated": "2026-08-27T17:53:13.617Z",
     "original_repository_info": {
       "archived": false,
       "id": 43595048,
