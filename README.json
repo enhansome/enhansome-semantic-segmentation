@@ -2143,8 +2143,8 @@
                     "id": 140302908,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T22:15:20Z",
-                    "open_issues": 76,
+                    "last_commit": "2026-08-29T10:22:51Z",
+                    "open_issues": 77,
                     "owner": "supervisely",
                     "repo": "supervisely",
                     "stars": 541,
@@ -3991,7 +3991,7 @@
                     "open_issues": 44,
                     "owner": "4uiiurz1",
                     "repo": "pytorch-nested-unet",
-                    "stars": 1045,
+                    "stars": 1044,
                     "topics": [
                       "image-segmentation",
                       "pytorch",
@@ -4263,7 +4263,7 @@
                     "open_issues": 1960,
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32894,
+                    "stars": 32895,
                     "topics": [
                       "cascade-rcnn",
                       "convnext",
@@ -4305,7 +4305,7 @@
                     "open_issues": 2022,
                     "owner": "matterport",
                     "repo": "Mask_RCNN",
-                    "stars": 25570,
+                    "stars": 25571,
                     "topics": [
                       "instance-segmentation",
                       "keras",
@@ -5182,7 +5182,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25236,
+                "stars": 25235,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -5443,7 +5443,7 @@
             "open_issues": 780,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18427,
+            "stars": 18426,
             "topics": [
               "ai",
               "airsim",
@@ -6122,11 +6122,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T15:42:26Z",
+            "last_commit": "2026-08-29T08:59:44Z",
             "open_issues": 595,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16615,
+            "stars": 16616,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -6168,7 +6168,7 @@
             "open_issues": 180,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16134,
+            "stars": 16132,
             "topics": [
               "annotations",
               "classification",
@@ -7393,7 +7393,7 @@
             "open_issues": 4,
             "owner": "MaybeShewill-CV",
             "repo": "lanenet-lane-detection",
-            "stars": 2562,
+            "stars": 2561,
             "topics": [
               "deep-learning",
               "instance-segmentation",
@@ -7947,10 +7947,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:44:04Z",
-            "open_issues": 232,
+            "open_issues": 236,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64265,
+            "stars": 64269,
             "topics": [
               "data-science",
               "deep-learning",
@@ -8234,7 +8234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:14:14.668Z",
+    "last_updated": "2026-08-29T12:49:12.395Z",
     "original_repository_info": {
       "archived": false,
       "description": ":metal: awesome-semantic-segmentation",
