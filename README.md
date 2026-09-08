@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,845 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,122 | 🐛 106 | 📅 2026-09-02
 
 # Awesome Semantic Segmentation with stars
 
@@ -7,7 +7,7 @@
 ### Semantic segmentation
 
 * U-Net \[<https://arxiv.org/pdf/1505.04597.pdf>] \[2015]
-  * <https://github.com/zhixuhao/unet> ⭐ 4,937 | 🐛 209 | 🌐 Jupyter Notebook | 📅 2026-03-27 \[Keras][![GitHub stars](https://img.shields.io/github/stars/zhixuhao/unet.svg?logo=github\&label=Stars)](https://github.com/zhixuhao/unet) ⭐ 4,937 | 🐛 209 | 🌐 Jupyter Notebook | 📅 2026-03-27
+  * <https://github.com/zhixuhao/unet> ⭐ 4,938 | 🐛 209 | 🌐 Jupyter Notebook | 📅 2026-03-27 \[Keras][![GitHub stars](https://img.shields.io/github/stars/zhixuhao/unet.svg?logo=github\&label=Stars)](https://github.com/zhixuhao/unet) ⭐ 4,938 | 🐛 209 | 🌐 Jupyter Notebook | 📅 2026-03-27
   * <https://github.com/qubvel/segmentation_models> ⭐ 4,923 | 🐛 274 | 🌐 Python | 📅 2024-08-21 \[Keras][![GitHub stars](https://img.shields.io/github/stars/qubvel/segmentation_models.svg?logo=github\&label=Stars)](https://github.com/qubvel/segmentation_models) ⭐ 4,923 | 🐛 274 | 🌐 Python | 📅 2024-08-21
   * <https://github.com/LeeJunHyun/Image_Segmentation#u-net> ⭐ 3,101 | 🐛 7 | 🌐 Python | 📅 2023-06-30 \[PyTorch][![GitHub stars](https://img.shields.io/github/stars/LeeJunHyun/Image_Segmentation.svg?logo=github\&label=Stars)](https://github.com/LeeJunHyun/Image_Segmentation) ⭐ 3,101 | 🐛 7 | 🌐 Python | 📅 2023-06-30
   * <https://github.com/divamgupta/image-segmentation-keras> ⭐ 3,002 | 🐛 166 | 🌐 Python | 📅 2024-05-12 \[Keras][![GitHub stars](https://img.shields.io/github/stars/divamgupta/image-segmentation-keras.svg?logo=github\&label=Stars)](https://github.com/divamgupta/image-segmentation-keras) ⭐ 3,002 | 🐛 166 | 🌐 Python | 📅 2024-05-12
@@ -39,11 +39,11 @@
   * <https://github.com/developmentseed/caffe/tree/segnet-multi-gpu> ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2018-04-19 \[Caffe]
   * <https://github.com/fedor-chervinskii/segnet-torch> ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2016-07-26 \[Torch]
 * DeepLab \[<https://arxiv.org/pdf/1606.00915.pdf>] \[2017]
-  * <https://github.com/tensorflow/models/tree/master/research/deeplab> ⭐ 77,660 | 🐛 1,273 | 🌐 Python | 📅 2026-09-05 \[Tensorflow]
+  * <https://github.com/tensorflow/models/tree/master/research/deeplab> ⭐ 77,657 | 🐛 1,274 | 🌐 Python | 📅 2026-09-05 \[Tensorflow]
   * <https://github.com/msracver/Deformable-ConvNets/tree/master/deeplab> ⭐ 4,121 | 🐛 159 | 🌐 Python | 📅 2021-09-27 \[MXNet]
   * <https://github.com/youansheng/torchcv> ⭐ 2,251 | 🐛 42 | 🌐 Shell | 📅 2020-11-19 \[PyTorch]
   * <https://github.com/yassouali/pytorch_segmentation> ⭐ 1,819 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2025-02-23 \[PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation) ⭐ 1,819 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2025-02-23
-  * <https://github.com/bonlime/keras-deeplab-v3-plus> ⭐ 1,375 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13 \[Keras]
+  * <https://github.com/bonlime/keras-deeplab-v3-plus> ⭐ 1,374 | 🐛 41 | 🌐 Jupyter Notebook | 📅 2024-11-13 \[Keras]
   * <https://github.com/DrSleep/tensorflow-deeplab-resnet> ⚠️ Archived \[Tensorflow]
   * <https://github.com/kazuto1011/deeplab-pytorch> ⭐ 1,100 | 🐛 12 | 🌐 Python | 📅 2022-10-14 \[PyTorch]
   * <https://github.com/speedinghzl/pytorch-segmentation-toolbox> ⭐ 777 | 🐛 21 | 🌐 Python | 📅 2020-02-20 \[PyTorch]
@@ -64,7 +64,7 @@
   * <https://github.com/wkentaro/pytorch-fcn> ⚠️ Archived \[PyTorch]
   * <https://github.com/ZijunDeng/pytorch-semantic-segmentation> ⭐ 1,735 | 🐛 48 | 🌐 Python | 📅 2019-10-25 \[PyTorch]
   * <https://github.com/shekkizh/FCN.tensorflow> ⭐ 1,248 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2022-03-17 \[Tensorflow]
-  * <https://github.com/MarvinTeichmann/tensorflow-fcn> ⭐ 1,094 | 🐛 21 | 🌐 Python | 📅 2017-12-15 \[Tensorflow]
+  * <https://github.com/MarvinTeichmann/tensorflow-fcn> ⭐ 1,093 | 🐛 21 | 🌐 Python | 📅 2017-12-15 \[Tensorflow]
   * <https://github.com/aurora95/Keras-FCN> ⭐ 648 | 🐛 49 | 🌐 Python | 📅 2018-01-25 \[Keras]
   * <https://github.com/ycszen/pytorch-seg> ⚠️ Archived \[PyTorch]
   * <https://github.com/wkentaro/fcn> ⭐ 215 | 🐛 1 | 🌐 Python | 📅 2021-10-06 \[Chainer]
@@ -82,7 +82,7 @@
   * <https://github.com/petrama/VGGSegmentation> ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2017-03-06 \[Tensorflow]
 * ENet \[<https://arxiv.org/pdf/1606.02147.pdf>] \[2016]
   * <https://github.com/yassouali/pytorch_segmentation> ⭐ 1,819 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2025-02-23 \[PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation) ⭐ 1,819 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2025-02-23
-  * <https://github.com/TimoSaemann/ENet> ⭐ 596 | 🐛 57 | 🌐 Python | 📅 2021-03-22 \[Caffe]
+  * <https://github.com/TimoSaemann/ENet> ⭐ 597 | 🐛 57 | 🌐 Python | 📅 2021-03-22 \[Caffe]
   * <https://github.com/davidtvs/PyTorch-ENet> ⭐ 411 | 🐛 7 | 🌐 Python | 📅 2021-05-10 \[PyTorch]
   * <https://github.com/e-lab/ENet-training> ⭐ 351 | 🐛 14 | 🌐 Lua | 📅 2017-06-26 \[Torch]
   * <https://github.com/kwotsin/TensorFlow-ENet> ⭐ 253 | 🐛 25 | 🌐 Python | 📅 2019-09-09 \[Tensorflow]
@@ -90,13 +90,13 @@
   * <https://github.com/PavlosMelissinos/enet-keras> ⭐ 115 | 🐛 18 | 🌐 Python | 📅 2022-12-07 \[Keras]
 * LinkNet \[<https://arxiv.org/pdf/1707.03718.pdf>] \[2017]
   * <https://github.com/qubvel/segmentation_models> ⭐ 4,923 | 🐛 274 | 🌐 Python | 📅 2024-08-21 \[Keras]
-  * <https://github.com/e-lab/LinkNet> ⭐ 174 | 🐛 4 | 🌐 Lua | 📅 2017-08-07 \[Torch]
+  * <https://github.com/e-lab/LinkNet> ⭐ 172 | 🐛 4 | 🌐 Lua | 📅 2017-08-07 \[Torch]
 * DenseNet \[<https://arxiv.org/pdf/1611.09326.pdf>] \[2017]
   * <https://github.com/SimJeg/FC-DenseNet> ⭐ 490 | 🐛 22 | 🌐 Python | 📅 2022-10-18 \[Lasagne]
   * <https://github.com/0bserver07/One-Hundred-Layers-Tiramisu> ⭐ 198 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-08-06 \[Keras]
   * <https://github.com/HasnainRaz/FC-DenseNet-TensorFlow> ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2018-12-21 \[Tensorflow]
 * DilatedNet \[<https://arxiv.org/pdf/1511.07122.pdf>] \[2016]
-  * <https://github.com/hangzhaomit/semantic-segmentation-pytorch> ⭐ 5,081 | 🐛 82 | 🌐 Python | 📅 2024-01-15 \[PyTorch]
+  * <https://github.com/hangzhaomit/semantic-segmentation-pytorch> ⭐ 5,080 | 🐛 82 | 🌐 Python | 📅 2024-01-15 \[PyTorch]
   * <https://github.com/fyu/drn#semantic-image-segmentataion> ⭐ 1,102 | 🐛 31 | 🌐 Python | 📅 2020-03-09 \[PyTorch]
   * <https://github.com/fyu/dilation> ⭐ 784 | 🐛 31 | 🌐 Python | 📅 2018-04-01 \[Caffe]
   * <https://github.com/nicolov/segmentation_keras> ⭐ 300 | 🐛 5 | 🌐 Python | 📅 2019-01-05 \[Keras]
@@ -104,10 +104,10 @@
   * <https://github.com/aayushbansal/PixelNet> ⭐ 197 | 🐛 4 | 🌐 Matlab | 📅 2017-06-08 \[Caffe]
 * ICNet \[<https://arxiv.org/pdf/1704.08545.pdf>] \[2017]
   * <https://github.com/hszhao/ICNet> ⭐ 609 | 🐛 27 | 🌐 MATLAB | 📅 2022-04-15 \[Caffe]
-  * <https://github.com/supervisely/supervisely/tree/master/plugins/nn/icnet> ⭐ 542 | 🐛 76 | 🌐 Python | 📅 2026-09-07 \[PyTorch]
-  * <https://github.com/hellochick/ICNet-tensorflow> ⭐ 404 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2020-06-28 \[Tensorflow]
-  * <https://github.com/oandrienko/fast-semantic-segmentation> ⭐ 221 | 🐛 10 | 🌐 Python | 📅 2019-11-05 \[Tensorflow]
-  * <https://github.com/aitorzip/Keras-ICNet> ⭐ 88 | 🐛 11 | 🌐 Python | 📅 2018-01-24 \[Keras]
+  * <https://github.com/supervisely/supervisely/tree/master/plugins/nn/icnet> ⭐ 542 | 🐛 77 | 🌐 Python | 📅 2026-09-07 \[PyTorch]
+  * <https://github.com/hellochick/ICNet-tensorflow> ⭐ 403 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2020-06-28 \[Tensorflow]
+  * <https://github.com/oandrienko/fast-semantic-segmentation> ⭐ 220 | 🐛 10 | 🌐 Python | 📅 2019-11-05 \[Tensorflow]
+  * <https://github.com/aitorzip/Keras-ICNet> ⭐ 88 | 🐛 10 | 🌐 Python | 📅 2018-01-24 \[Keras]
 * ERFNet \[<http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf>] \[?]
   * <https://github.com/Eromera/erfnet_pytorch> ⭐ 445 | 🐛 14 | 🌐 Python | 📅 2019-12-05 \[PyTorch]
   * <https://github.com/Eromera/erfnet> ⭐ 123 | 🐛 2 | 🌐 Lua | 📅 2019-12-05 \[Torch]
@@ -122,7 +122,7 @@
   * <https://github.com/speedinghzl/pytorch-segmentation-toolbox> ⭐ 777 | 🐛 21 | 🌐 Python | 📅 2020-02-20 \[PyTorch]
   * <https://github.com/Vladkryvoruchko/PSPNet-Keras-tensorflow> ⭐ 397 | 🐛 24 | 🌐 Python | 📅 2019-09-25 \[Keras/Tensorflow]
   * <https://github.com/hellochick/PSPNet-tensorflow> ⭐ 321 | 🐛 45 | 🌐 Python | 📅 2019-06-03 \[Tensorflow]
-  * <https://github.com/oandrienko/fast-semantic-segmentation> ⭐ 221 | 🐛 10 | 🌐 Python | 📅 2019-11-05 \[Tensorflow]
+  * <https://github.com/oandrienko/fast-semantic-segmentation> ⭐ 220 | 🐛 10 | 🌐 Python | 📅 2019-11-05 \[Tensorflow]
   * <https://github.com/holyseven/PSPNet-TF-Reproduce> ⭐ 127 | 🐛 2 | 🌐 Python | 📅 2021-04-09 \[Tensorflow][![GitHub stars](https://img.shields.io/github/stars/holyseven/PSPNet-TF-Reproduce)](https://github.com/holyseven/PSPNet-TF-Reproduce) ⭐ 127 | 🐛 2 | 🌐 Python | 📅 2021-04-09
   * <https://github.com/hellochick/semantic-segmentation-tensorflow> ⭐ 85 | 🐛 11 | 🌐 Python | 📅 2018-04-03 \[Tensorflow]
   * <https://github.com/mitmul/chainer-pspnet> ⭐ 74 | 🐛 5 | 🌐 Python | 📅 2018-10-09 \[Chainer]
@@ -174,12 +174,12 @@
   * <https://github.com/juntang-zhuang/LadderNet> ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2019-09-20 \[PyTorch]
 * BiSeNet \[<https://arxiv.org/pdf/1808.00897.pdf>] \[2018]
   * <https://github.com/zllrunning/face-parsing.PyTorch> ⭐ 2,588 | 🐛 43 | 🌐 Python | 📅 2023-05-21 \[PyTorch]
-  * <https://github.com/ycszen/TorchSeg> ⭐ 1,410 | 🐛 41 | 🌐 Python | 📅 2020-03-11 \[PyTorch]
+  * <https://github.com/ycszen/TorchSeg> ⭐ 1,409 | 🐛 41 | 🌐 Python | 📅 2020-03-11 \[PyTorch]
   * <https://github.com/ooooverflow/BiSeNet> ⭐ 409 | 🐛 23 | 🌐 Python | 📅 2020-03-13 \[PyTorch]
 * ESPNet \[<https://arxiv.org/pdf/1803.06815.pdf>] \[2018]
   * <https://github.com/sacmehta/ESPNet> ⭐ 542 | 🐛 9 | 🌐 Python | 📅 2023-06-30 \[PyTorch]
 * DFN \[<https://arxiv.org/pdf/1804.09337.pdf>] \[2018]
-  * <https://github.com/ycszen/TorchSeg> ⭐ 1,410 | 🐛 41 | 🌐 Python | 📅 2020-03-11 \[PyTorch]
+  * <https://github.com/ycszen/TorchSeg> ⭐ 1,409 | 🐛 41 | 🌐 Python | 📅 2020-03-11 \[PyTorch]
 * CCNet \[<https://arxiv.org/pdf/1811.11721.pdf>] \[2018]
   * <https://github.com/speedinghzl/CCNet> ⭐ 1,485 | 🐛 65 | 🌐 Python | 📅 2021-03-19 \[PyTorch]
 * DenseASPP \[<http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf>] \[2018]
@@ -187,7 +187,7 @@
 * Fast-SCNN \[<https://arxiv.org/pdf/1902.04502.pdf>] \[2019]
   * <https://github.com/DeepVoltaire/Fast-SCNN> ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2019-06-07 \[PyTorch]
 * HRNet \[<https://arxiv.org/pdf/1904.04514.pdf>] \[2019]
-  * <https://github.com/HRNet/HRNet-Semantic-Segmentation> ⭐ 3,331 | 🐛 163 | 🌐 Python | 📅 2022-11-17 \[PyTorch]
+  * <https://github.com/HRNet/HRNet-Semantic-Segmentation> ⭐ 3,330 | 🐛 163 | 🌐 Python | 📅 2022-11-17 \[PyTorch]
 * PSANet \[<https://hszhao.github.io/papers/eccv18_psanet.pdf>] \[2018]
   * <https://github.com/hszhao/PSANet> ⭐ 220 | 🐛 1 | 🌐 C++ | 📅 2019-09-09 \[Caffe]
 * UPSNet \[<https://arxiv.org/pdf/1901.03784.pdf>] \[2019]
@@ -225,10 +225,10 @@
 * SharpMask \[<https://arxiv.org/pdf/1603.08695.pdf>]
   * <https://github.com/facebookresearch/deepmask> ⚠️ Archived \[Torch]
 * Mask-RCNN \[<https://arxiv.org/pdf/1703.06870.pdf>]
-  * <https://github.com/open-mmlab/mmdetection> ⭐ 32,913 | 🐛 1,962 | 🌐 Python | 📅 2024-08-21 \[PyTorch]
-  * <https://github.com/matterport/Mask_RCNN> ⭐ 25,572 | 🐛 2,022 | 🌐 Python | 📅 2024-06-07 \[Keras]
+  * <https://github.com/open-mmlab/mmdetection> ⭐ 32,912 | 🐛 1,962 | 🌐 Python | 📅 2024-08-21 \[PyTorch]
+  * <https://github.com/matterport/Mask_RCNN> ⭐ 25,570 | 🐛 2,022 | 🌐 Python | 📅 2024-06-07 \[Keras]
   * <https://github.com/facebookresearch/maskrcnn-benchmark> ⚠️ Archived \[PyTorch]
-  * <https://github.com/CharlesShang/FastMaskRCNN> ⭐ 3,083 | 🐛 142 | 🌐 Python | 📅 2021-01-05 \[Tensorflow]
+  * <https://github.com/CharlesShang/FastMaskRCNN> ⭐ 3,082 | 🐛 142 | 🌐 Python | 📅 2021-01-05 \[Tensorflow]
   * <https://github.com/TuSimple/mx-maskrcnn> ⭐ 1,753 | 🐛 54 | 🌐 Python | 📅 2018-02-28 \[MxNet]
   * <https://github.com/jasjeetIM/Mask-RCNN> ⭐ 231 | 🐛 11 | 🌐 MATLAB | 📅 2019-06-21 \[Caffe]
   * <https://github.com/ZFTurbo/Keras-Mask-RCNN-for-Open-Images-2019-Instance-Segmentation> ⭐ 57 | 🐛 2 | 🌐 Python | 📅 2019-10-25 \[Keras]
@@ -239,7 +239,7 @@
 * BlitzNet \[<https://arxiv.org/pdf/1708.02813.pdf>]
   * <https://github.com/dvornikita/blitznet> ⭐ 318 | 🐛 10 | 🌐 Python | 📅 2018-12-19 \[Tensorflow]
 * PANet \[<https://arxiv.org/pdf/1803.01534.pdf>] \[2018]
-  * <https://github.com/ShuLiu1993/PANet> ⭐ 1,347 | 🐛 52 | 🌐 Python | 📅 2019-03-17 \[Caffe]
+  * <https://github.com/ShuLiu1993/PANet> ⭐ 1,346 | 🐛 52 | 🌐 Python | 📅 2019-03-17 \[Caffe]
 * PAN \[<https://arxiv.org/pdf/1805.10180.pdf>] \[2018]
   * <https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch> ⭐ 238 | 🐛 10 | 🌐 Python | 📅 2018-12-19 \[PyTorch]
 * TernausNetV2 \[<https://arxiv.org/pdf/1806.00844.pdf>] \[2018]
@@ -251,16 +251,16 @@
 * Pose2Seg \[<https://arxiv.org/pdf/1803.10683.pdf>] \[2019]
   * <https://github.com/liruilong940607/Pose2Seg> ⭐ 540 | 🐛 25 | 🌐 Python | 📅 2023-09-23 \[PyTorch]
 * YOLACT \[<https://arxiv.org/pdf/1904.02689.pdf>] \[2019]
-  * <https://github.com/dbolya/yolact> ⭐ 5,241 | 🐛 415 | 🌐 Python | 📅 2025-09-09 \[PyTorch]
+  * <https://github.com/dbolya/yolact> ⭐ 5,242 | 🐛 415 | 🌐 Python | 📅 2025-09-09 \[PyTorch]
 * CenterMask \[<https://arxiv.org/pdf/1911.06667.pdf>] \[2019]
   * <https://github.com/youngwanLEE/CenterMask> ⭐ 784 | 🐛 32 | 🌐 Python | 📅 2020-03-27 \[PyTorch]
   * <https://github.com/youngwanLEE/centermask2> ⭐ 777 | 🐛 34 | 🌐 Python | 📅 2021-12-27 \[PyTorch]
 * InstaBoost \[<https://arxiv.org/pdf/1908.07801.pdf>] \[2019]
   * <https://github.com/GothicAi/Instaboost> ⭐ 402 | 🐛 5 | 🌐 Python | 📅 2020-01-07 \[PyTorch]
 * SOLO \[<https://arxiv.org/pdf/1912.04488.pdf>] \[2019]
-  * <https://github.com/WXinlong/SOLO> ⭐ 1,758 | 🐛 126 | 🌐 Python | 📅 2023-12-26 \[PyTorch]
+  * <https://github.com/WXinlong/SOLO> ⭐ 1,757 | 🐛 126 | 🌐 Python | 📅 2023-12-26 \[PyTorch]
 * SOLOv2 \[<https://arxiv.org/pdf/2003.10152.pdf>] \[2020]
-  * <https://github.com/WXinlong/SOLO> ⭐ 1,758 | 🐛 126 | 🌐 Python | 📅 2023-12-26 \[PyTorch]
+  * <https://github.com/WXinlong/SOLO> ⭐ 1,757 | 🐛 126 | 🌐 Python | 📅 2023-12-26 \[PyTorch]
 
 ### Weakly-supervised segmentation
 
@@ -310,7 +310,7 @@
 
 ## Datasets:
 
-* [Microsoft AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,458 | 🐛 780 | 🌐 C++ | 📅 2026-06-30
+* [Microsoft AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,460 | 🐛 780 | 🌐 C++ | 📅 2026-06-30
 * [Clothing Co-Parsing (CCP) Dataset](https://github.com/bearpaw/clothing-co-parsing) ⚠️ Archived
 * [Human parsing dataset](https://github.com/lemondan/HumanParsing-Dataset) ⭐ 224 | 🐛 14 | 📅 2017-07-03
 * [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
@@ -340,10 +340,10 @@
 
 ## Benchmarks
 
-* <https://github.com/qubvel/segmentation_models.pytorch> ⭐ 11,728 | 🐛 82 | 🌐 Python | 📅 2026-09-07 \[PyTorch]
-* <https://github.com/open-mmlab/mmsegmentation> ⭐ 9,942 | 🐛 869 | 🌐 Python | 📅 2024-08-13 \[PyTorch]
-* <https://github.com/PaddlePaddle/PaddleSeg> ⭐ 9,386 | 🐛 29 | 🌐 Python | 📅 2026-02-05 \[PaddlePaddle]
-* <https://github.com/CSAILVision/semantic-segmentation-pytorch> ⭐ 5,081 | 🐛 82 | 🌐 Python | 📅 2024-01-15 \[PyTorch]
+* <https://github.com/qubvel/segmentation_models.pytorch> ⭐ 11,731 | 🐛 82 | 🌐 Python | 📅 2026-09-07 \[PyTorch]
+* <https://github.com/open-mmlab/mmsegmentation> ⭐ 9,943 | 🐛 869 | 🌐 Python | 📅 2024-08-13 \[PyTorch]
+* <https://github.com/PaddlePaddle/PaddleSeg> ⭐ 9,387 | 🐛 28 | 🌐 Python | 📅 2026-02-05 \[PaddlePaddle]
+* <https://github.com/CSAILVision/semantic-segmentation-pytorch> ⭐ 5,080 | 🐛 82 | 🌐 Python | 📅 2024-01-15 \[PyTorch]
 * <https://github.com/qubvel/segmentation_models> ⭐ 4,923 | 🐛 274 | 🌐 Python | 📅 2024-08-21 \[Keras]
 * <https://github.com/meetshah1995/pytorch-semseg> ⭐ 3,402 | 🐛 133 | 🌐 Python | 📅 2023-10-11 \[PyTorch]
 * <https://github.com/Tramac/awesome-semantic-segmentation-pytorch> ⭐ 3,070 | 🐛 128 | 🌐 Python | 📅 2023-01-04 \[PyTorch]
@@ -351,7 +351,7 @@
 * <https://github.com/GeorgeSeif/Semantic-Segmentation-Suite> ⚠️ Archived \[Tensorflow]
 * <https://github.com/yassouali/pytorch_segmentation> ⭐ 1,819 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2025-02-23 \[PyTorch]
 * <https://github.com/ZijunDeng/pytorch-semantic-segmentation> ⭐ 1,735 | 🐛 48 | 🌐 Python | 📅 2019-10-25 \[PyTorch]
-* <https://github.com/ycszen/TorchSeg> ⭐ 1,410 | 🐛 41 | 🌐 Python | 📅 2020-03-11 \[PyTorch]
+* <https://github.com/ycszen/TorchSeg> ⭐ 1,409 | 🐛 41 | 🌐 Python | 📅 2020-03-11 \[PyTorch]
 * <https://github.com/hszhao/semseg> ⭐ 1,378 | 🐛 46 | 🌐 Python | 📅 2022-08-28 \[PyTorch]
 * <https://github.com/openseg-group/openseg.pytorch> ⭐ 1,237 | 🐛 31 | 🌐 Python | 📅 2024-07-25 \[PyTorch]
 * <https://github.com/warmspringwinds/pytorch-segmentation-detection> ⭐ 756 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2022-03-28 \[PyTorch]
@@ -370,8 +370,8 @@
 
 ## Annotation Tools:
 
-* <https://github.com/opencv/cvat> ⭐ 16,655 | 🐛 595 | 🌐 Python | 📅 2026-09-07
-* <https://github.com/wkentaro/labelme> ⭐ 16,153 | 🐛 167 | 🌐 Python | 📅 2026-09-07
+* <https://github.com/opencv/cvat> ⭐ 16,663 | 🐛 594 | 🌐 Python | 📅 2026-09-08
+* <https://github.com/wkentaro/labelme> ⭐ 16,156 | 🐛 168 | 🌐 Python | 📅 2026-09-08
 * <https://github.com/CSAILVision/LabelMeAnnotationTool> ⭐ 1,468 | 🐛 64 | 🌐 JavaScript | 📅 2023-03-29
 * <https://github.com/kyamagu/js-segment-annotator> ⚠️ Archived
 * <https://github.com/lzx1413/labelImgPlus> ⭐ 216 | 🐛 8 | 🌐 Python | 📅 2019-08-26
@@ -406,7 +406,7 @@
 * <https://github.com/tangzhenyu/SemanticSegmentation_DL> ⭐ 1,102 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2021-03-10
 * <https://github.com/nightrome/really-awesome-semantic-segmentation> ⭐ 403 | 🐛 0 | 📅 2018-03-16
 * <https://github.com/JackieZhangdx/InstanceSegmentationList> ⭐ 87 | 🐛 2 | 📅 2018-05-26
-* <https://github.com/damminhtien/awesome-semantic-segmentation> ⭐ 24 | 🐛 0 | 📅 2026-04-10
+* <https://github.com/damminhtien/awesome-semantic-segmentation> ⭐ 25 | 🐛 0 | 📅 2026-04-10
 * <https://paperswithcode.com/task/semantic-segmentation>
 
 ## Medical image segmentation:
@@ -432,7 +432,7 @@
 
 * Keras
   * <https://github.com/jocicmarko/ultrasound-nerve-segmentation> ⭐ 943 | 🐛 53 | 🌐 Python | 📅 2018-10-11
-  * <https://github.com/lishen/end2end-all-conv> ⭐ 394 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2022-02-24
+  * <https://github.com/lishen/end2end-all-conv> ⭐ 393 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2022-02-24
   * <https://github.com/EdwardTyantov/ultrasound-nerve-segmentation> ⭐ 181 | 🐛 4 | 🌐 Python | 📅 2018-06-29
   * <https://github.com/scottykwok/cervix-roi-segmentation-by-unet> ⭐ 35 | 🐛 2 | 🌐 Python | 📅 2017-09-09
   * <https://github.com/intact-project/ild-cnn> ⭐ 25 | 🐛 2 | 🌐 Python | 📅 2016-04-13
@@ -451,7 +451,7 @@
     * <http://people.idsia.ch/~juergen/nips2012.pdf>
 
 * Data:
-  * <https://github.com/beamandrew/medical-data> ⭐ 6,024 | 🐛 17 | 📅 2023-11-19
+  * <https://github.com/beamandrew/medical-data> ⭐ 6,025 | 🐛 17 | 📅 2023-11-19
   * <https://luna16.grand-challenge.org/>
   * <https://camelyon16.grand-challenge.org/>
 
@@ -481,7 +481,7 @@
 ## Autonomous driving
 
 * <https://github.com/ndrplz/self-driving-car> ⭐ 2,921 | 🐛 12 | 🌐 C++ | 📅 2023-03-28
-* <https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,563 | 🐛 4 | 🌐 Python | 📅 2023-12-08
+* <https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,562 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 * <https://github.com/MarvinTeichmann/KittiSeg> ⭐ 917 | 🐛 100 | 🌐 Python | 📅 2018-03-02
 * <https://github.com/MarvinTeichmann/MultiNet> ⭐ 556 | 🐛 33 | 🌐 Python | 📅 2019-05-17
 * <https://github.com/mvirgo/MLND-Capstone> ⭐ 440 | 🐛 5 | 🌐 Python | 📅 2020-05-08
@@ -497,7 +497,7 @@
   * <https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2017-04-11
 
 * TensorFlow
-  * <https://github.com/warmspringwinds/tf-image-segmentation> ⭐ 546 | 🐛 36 | 🌐 Python | 📅 2017-08-23
+  * <https://github.com/warmspringwinds/tf-image-segmentation> ⭐ 545 | 🐛 36 | 🌐 Python | 📅 2017-08-23
 
 * Caffe
   * <https://github.com/xiaolonw/nips14_loc_seg_testonly> ⭐ 25 | 🐛 3 | 🌐 C++ | 📅 2015-05-17
@@ -539,7 +539,7 @@
 
 ## To look at
 
-* <https://github.com/fchollet/keras/issues/6538> ⭐ 64,320 | 🐛 214 | 🌐 Python | 📅 2026-09-05
+* <https://github.com/fchollet/keras/issues/6538> ⭐ 64,319 | 🐛 213 | 🌐 Python | 📅 2026-09-08
 * <https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation> ⭐ 11,185 | 🐛 47 | 📅 2023-08-15
 * <https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation> ⭐ 11,185 | 🐛 47 | 📅 2023-08-15
 * <https://github.com/warmspringwinds/pytorch-segmentation-detection> ⭐ 756 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2022-03-28
@@ -563,4 +563,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
