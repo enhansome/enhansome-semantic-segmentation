@@ -90,7 +90,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2023-06-30T05:20:58Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "LeeJunHyun",
                     "repo": "Image_Segmentation",
                     "stars": 3101,
@@ -1097,7 +1097,7 @@
                     "open_issues": 2007,
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20809,
+                    "stars": 20810,
                     "topics": [
                       "mxnet"
                     ]
@@ -1987,7 +1987,7 @@
                     "open_issues": 82,
                     "owner": "CSAILVision",
                     "repo": "semantic-segmentation-pytorch",
-                    "stars": 5079,
+                    "stars": 5078,
                     "topics": [
                       "ade20k",
                       "pytorch",
@@ -2147,7 +2147,7 @@
                     "open_issues": 80,
                     "owner": "supervisely",
                     "repo": "supervisely",
-                    "stars": 543,
+                    "stars": 544,
                     "topics": [
                       "ai",
                       "deep-learning",
@@ -3301,7 +3301,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2023-06-30T05:20:58Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "LeeJunHyun",
                     "repo": "Image_Segmentation",
                     "stars": 3101,
@@ -3329,7 +3329,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2023-06-30T05:20:58Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "LeeJunHyun",
                     "repo": "Image_Segmentation",
                     "stars": 3101,
@@ -4263,7 +4263,7 @@
                     "open_issues": 1962,
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32919,
+                    "stars": 32920,
                     "topics": [
                       "cascade-rcnn",
                       "convnext",
@@ -5443,7 +5443,7 @@
             "open_issues": 780,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18472,
+            "stars": 18473,
             "topics": [
               "ai",
               "airsim",
@@ -5569,7 +5569,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-08-13T08:53:34Z",
-            "open_issues": 869,
+            "open_issues": 870,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
             "stars": 9947,
@@ -5638,7 +5638,7 @@
             "open_issues": 82,
             "owner": "CSAILVision",
             "repo": "semantic-segmentation-pytorch",
-            "stars": 5079,
+            "stars": 5078,
             "topics": [
               "ade20k",
               "pytorch",
@@ -6122,11 +6122,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T07:30:51Z",
+            "last_commit": "2026-09-12T16:56:05Z",
             "open_issues": 593,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16690,
+            "stars": 16696,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -6168,7 +6168,7 @@
             "open_issues": 168,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16164,
+            "stars": 16165,
             "topics": [
               "annotations",
               "classification",
@@ -6508,7 +6508,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20809,
+                "stars": 20810,
                 "topics": [
                   "mxnet"
                 ]
@@ -6877,7 +6877,7 @@
                 "open_issues": 15,
                 "owner": "DLTK",
                 "repo": "DLTK",
-                "stars": 1458,
+                "stars": 1457,
                 "topics": [
                   "cnn",
                   "data-science",
@@ -7393,7 +7393,7 @@
             "open_issues": 4,
             "owner": "MaybeShewill-CV",
             "repo": "lanenet-lane-detection",
-            "stars": 2563,
+            "stars": 2564,
             "topics": [
               "deep-learning",
               "instance-segmentation",
@@ -7947,10 +7947,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T03:20:50Z",
-            "open_issues": 180,
+            "open_issues": 191,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64317,
+            "stars": 64319,
             "topics": [
               "data-science",
               "deep-learning",
@@ -8234,7 +8234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:14:09.554Z",
+    "last_updated": "2026-09-13T12:15:53.301Z",
     "original_repository_info": {
       "archived": false,
       "description": ":metal: awesome-semantic-segmentation",
