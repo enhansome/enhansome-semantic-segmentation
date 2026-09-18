@@ -741,10 +741,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-16T18:51:07Z",
-                    "open_issues": 1275,
+                    "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77656,
+                    "stars": 77654,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:59:39.508Z"
@@ -1097,7 +1097,7 @@
                     "open_issues": 2007,
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20810,
+                    "stars": 20809,
                     "topics": [
                       "mxnet"
                     ]
@@ -2143,7 +2143,7 @@
                     "id": 140302908,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-17T12:01:44Z",
+                    "last_commit": "2026-09-18T09:01:19Z",
                     "open_issues": 81,
                     "owner": "supervisely",
                     "repo": "supervisely",
@@ -3353,7 +3353,7 @@
                     "open_issues": 0,
                     "owner": "ozan-oktay",
                     "repo": "Attention-Gated-Networks",
-                    "stars": 2065,
+                    "stars": 2066,
                     "topics": [
                       "attention-gates",
                       "attention-model",
@@ -3609,7 +3609,7 @@
                     "open_issues": 65,
                     "owner": "speedinghzl",
                     "repo": "CCNet",
-                    "stars": 1485,
+                    "stars": 1486,
                     "topics": [
                       "cityscape",
                       "pytorch",
@@ -4263,7 +4263,7 @@
                     "open_issues": 1962,
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32935,
+                    "stars": 32936,
                     "topics": [
                       "cascade-rcnn",
                       "convnext",
@@ -4305,7 +4305,7 @@
                     "open_issues": 2022,
                     "owner": "matterport",
                     "repo": "Mask_RCNN",
-                    "stars": 25572,
+                    "stars": 25574,
                     "topics": [
                       "instance-segmentation",
                       "keras",
@@ -5243,7 +5243,7 @@
                 "open_issues": 247,
                 "owner": "NVIDIA",
                 "repo": "pix2pixHD",
-                "stars": 6926,
+                "stars": 6925,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -5530,7 +5530,7 @@
             "open_issues": 82,
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
-            "stars": 11737,
+            "stars": 11738,
             "topics": [
               "computer-vision",
               "deeplab-v3-plus",
@@ -5572,7 +5572,7 @@
             "open_issues": 870,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9950,
+            "stars": 9953,
             "topics": [
               "deeplabv3",
               "image-segmentation",
@@ -5605,7 +5605,7 @@
             "open_issues": 28,
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9389,
+            "stars": 9390,
             "topics": [
               "autonomous-driving",
               "human-segmentation",
@@ -5777,7 +5777,7 @@
             "open_issues": 82,
             "owner": "GeorgeSeif",
             "repo": "Semantic-Segmentation-Suite",
-            "stars": 2519,
+            "stars": 2520,
             "topics": [
               "computer-vision",
               "dataset",
@@ -6122,11 +6122,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T10:38:08Z",
-            "open_issues": 587,
+            "last_commit": "2026-09-18T11:36:14Z",
+            "open_issues": 589,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16734,
+            "stars": 16746,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -6164,11 +6164,11 @@
             "id": 58374888,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T11:39:46Z",
-            "open_issues": 165,
+            "last_commit": "2026-09-18T07:59:25Z",
+            "open_issues": 166,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16174,
+            "stars": 16175,
             "topics": [
               "annotations",
               "classification",
@@ -6347,7 +6347,7 @@
             "open_issues": 3,
             "owner": "JunMa11",
             "repo": "SegLossOdyssey",
-            "stars": 4004,
+            "stars": 4003,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:39.508Z"
@@ -6474,7 +6474,7 @@
                 "open_issues": 625,
                 "owner": "NVIDIA",
                 "repo": "DIGITS",
-                "stars": 4177,
+                "stars": 4176,
                 "topics": [
                   "caffe",
                   "deep-learning",
@@ -6508,7 +6508,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20810,
+                "stars": 20809,
                 "topics": [
                   "mxnet"
                 ]
@@ -7868,7 +7868,7 @@
                 "open_issues": 625,
                 "owner": "NVIDIA",
                 "repo": "DIGITS",
-                "stars": 4177,
+                "stars": 4176,
                 "topics": [
                   "caffe",
                   "deep-learning",
@@ -7946,11 +7946,11 @@
             "id": 33015583,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T23:51:29Z",
-            "open_issues": 209,
+            "last_commit": "2026-09-18T01:39:07Z",
+            "open_issues": 208,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64318,
+            "stars": 64320,
             "topics": [
               "data-science",
               "deep-learning",
@@ -8191,7 +8191,7 @@
             "open_issues": 625,
             "owner": "NVIDIA",
             "repo": "DIGITS",
-            "stars": 4177,
+            "stars": 4176,
             "topics": [
               "caffe",
               "deep-learning",
@@ -8218,7 +8218,7 @@
             "open_issues": 625,
             "owner": "NVIDIA",
             "repo": "DIGITS",
-            "stars": 4177,
+            "stars": 4176,
             "topics": [
               "caffe",
               "deep-learning",
@@ -8234,7 +8234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:03:20.071Z",
+    "last_updated": "2026-09-18T11:47:19.202Z",
     "original_repository_info": {
       "archived": false,
       "description": ":metal: awesome-semantic-segmentation",
