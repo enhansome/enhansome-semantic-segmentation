@@ -744,7 +744,7 @@
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653,
+                    "stars": 77652,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:59:39.508Z"
@@ -1987,7 +1987,7 @@
                     "open_issues": 82,
                     "owner": "CSAILVision",
                     "repo": "semantic-segmentation-pytorch",
-                    "stars": 5079,
+                    "stars": 5080,
                     "topics": [
                       "ade20k",
                       "pytorch",
@@ -2089,7 +2089,7 @@
                     "open_issues": 4,
                     "owner": "aayushbansal",
                     "repo": "PixelNet",
-                    "stars": 197,
+                    "stars": 198,
                     "topics": [
                       "caffe",
                       "deep-learning",
@@ -2144,7 +2144,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-28T21:20:53Z",
-                    "open_issues": 34,
+                    "open_issues": 33,
                     "owner": "supervisely",
                     "repo": "supervisely",
                     "stars": 543,
@@ -3004,7 +3004,7 @@
                     "open_issues": 100,
                     "owner": "MarvinTeichmann",
                     "repo": "KittiSeg",
-                    "stars": 917,
+                    "stars": 918,
                     "topics": [
                       "autonomous-driving",
                       "computer-vision",
@@ -3033,7 +3033,7 @@
                     "open_issues": 33,
                     "owner": "MarvinTeichmann",
                     "repo": "MultiNet",
-                    "stars": 556,
+                    "stars": 557,
                     "topics": [
                       "autonomous-driving",
                       "computer-vision",
@@ -3353,7 +3353,7 @@
                     "open_issues": 0,
                     "owner": "ozan-oktay",
                     "repo": "Attention-Gated-Networks",
-                    "stars": 2065,
+                    "stars": 2064,
                     "topics": [
                       "attention-gates",
                       "attention-model",
@@ -3471,7 +3471,7 @@
                     "open_issues": 43,
                     "owner": "zllrunning",
                     "repo": "face-parsing.PyTorch",
-                    "stars": 2589,
+                    "stars": 2588,
                     "topics": [
                       "bisenet",
                       "celeba-hq-dataset",
@@ -3700,7 +3700,7 @@
                     "open_issues": 163,
                     "owner": "HRNet",
                     "repo": "HRNet-Semantic-Segmentation",
-                    "stars": 3336,
+                    "stars": 3337,
                     "topics": [
                       "cityscapes",
                       "high-resolution",
@@ -4263,7 +4263,7 @@
                     "open_issues": 1963,
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32966,
+                    "stars": 32969,
                     "topics": [
                       "cascade-rcnn",
                       "convnext",
@@ -4305,7 +4305,7 @@
                     "open_issues": 2022,
                     "owner": "matterport",
                     "repo": "Mask_RCNN",
-                    "stars": 25574,
+                    "stars": 25575,
                     "topics": [
                       "instance-segmentation",
                       "keras",
@@ -4353,7 +4353,7 @@
                     "open_issues": 142,
                     "owner": "CharlesShang",
                     "repo": "FastMaskRCNN",
-                    "stars": 3082,
+                    "stars": 3083,
                     "topics": [
                       "coco",
                       "detection",
@@ -4383,7 +4383,7 @@
                     "open_issues": 54,
                     "owner": "TuSimple",
                     "repo": "mx-maskrcnn",
-                    "stars": 1752,
+                    "stars": 1753,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:59:39.508Z"
@@ -4834,7 +4834,7 @@
                     "open_issues": 126,
                     "owner": "WXinlong",
                     "repo": "SOLO",
-                    "stars": 1755,
+                    "stars": 1756,
                     "topics": [
                       "instance-segmentation",
                       "object-detection",
@@ -4868,7 +4868,7 @@
                     "open_issues": 126,
                     "owner": "WXinlong",
                     "repo": "SOLO",
-                    "stars": 1755,
+                    "stars": 1756,
                     "topics": [
                       "instance-segmentation",
                       "object-detection",
@@ -5182,7 +5182,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25253,
+                "stars": 25256,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -5443,7 +5443,7 @@
             "open_issues": 781,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18522,
+            "stars": 18524,
             "topics": [
               "ai",
               "airsim",
@@ -5530,7 +5530,7 @@
             "open_issues": 83,
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
-            "stars": 11750,
+            "stars": 11749,
             "topics": [
               "computer-vision",
               "deeplab-v3-plus",
@@ -5605,7 +5605,7 @@
             "open_issues": 29,
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9397,
+            "stars": 9398,
             "topics": [
               "autonomous-driving",
               "human-segmentation",
@@ -5638,7 +5638,7 @@
             "open_issues": 82,
             "owner": "CSAILVision",
             "repo": "semantic-segmentation-pytorch",
-            "stars": 5079,
+            "stars": 5080,
             "topics": [
               "ade20k",
               "pytorch",
@@ -5732,7 +5732,7 @@
             "open_issues": 128,
             "owner": "Tramac",
             "repo": "awesome-semantic-segmentation-pytorch",
-            "stars": 3069,
+            "stars": 3070,
             "topics": [
               "pytorch",
               "semantic-segmentation"
@@ -6054,7 +6054,7 @@
             "open_issues": 92,
             "owner": "phillipi",
             "repo": "pix2pix",
-            "stars": 10662,
+            "stars": 10661,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -6122,11 +6122,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T12:43:31Z",
-            "open_issues": 588,
+            "last_commit": "2026-09-30T12:00:36Z",
+            "open_issues": 593,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16818,
+            "stars": 16825,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -6164,11 +6164,11 @@
             "id": 58374888,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T09:38:43Z",
-            "open_issues": 171,
+            "last_commit": "2026-09-30T08:31:54Z",
+            "open_issues": 164,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16200,
+            "stars": 16202,
             "topics": [
               "annotations",
               "classification",
@@ -6971,7 +6971,7 @@
                 "open_issues": 2,
                 "owner": "albarqouni",
                 "repo": "Deep-Learning-for-Medical-Applications",
-                "stars": 1613,
+                "stars": 1612,
                 "topics": [
                   "awesome-list",
                   "deep-learning",
@@ -7248,7 +7248,7 @@
                 "open_issues": 0,
                 "owner": "chrieke",
                 "repo": "awesome-satellite-imagery-datasets",
-                "stars": 3919,
+                "stars": 3920,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -7423,7 +7423,7 @@
             "open_issues": 100,
             "owner": "MarvinTeichmann",
             "repo": "KittiSeg",
-            "stars": 917,
+            "stars": 918,
             "topics": [
               "autonomous-driving",
               "computer-vision",
@@ -7452,7 +7452,7 @@
             "open_issues": 33,
             "owner": "MarvinTeichmann",
             "repo": "MultiNet",
-            "stars": 556,
+            "stars": 557,
             "topics": [
               "autonomous-driving",
               "computer-vision",
@@ -7679,7 +7679,7 @@
                 "open_issues": 92,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10662,
+                "stars": 10661,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -7946,11 +7946,11 @@
             "id": 33015583,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T11:16:37Z",
-            "open_issues": 275,
+            "last_commit": "2026-09-30T04:16:09Z",
+            "open_issues": 252,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64344,
+            "stars": 64343,
             "topics": [
               "data-science",
               "deep-learning",
@@ -8234,7 +8234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:18:15.187Z",
+    "last_updated": "2026-09-30T12:59:16.031Z",
     "original_repository_info": {
       "archived": false,
       "description": ":metal: awesome-semantic-segmentation",
@@ -8246,7 +8246,7 @@
       "open_issues": 17,
       "owner": "mrgloom",
       "repo": "awesome-semantic-segmentation",
-      "stars": 10846,
+      "stars": 10844,
       "topics": [
         "benchmark",
         "deeplearning",
