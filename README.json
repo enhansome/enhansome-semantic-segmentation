@@ -2147,7 +2147,7 @@
                     "open_issues": 34,
                     "owner": "supervisely",
                     "repo": "supervisely",
-                    "stars": 543,
+                    "stars": 544,
                     "topics": [
                       "ai",
                       "deep-learning",
@@ -3471,7 +3471,7 @@
                     "open_issues": 43,
                     "owner": "zllrunning",
                     "repo": "face-parsing.PyTorch",
-                    "stars": 2589,
+                    "stars": 2590,
                     "topics": [
                       "bisenet",
                       "celeba-hq-dataset",
@@ -4263,7 +4263,7 @@
                     "open_issues": 1963,
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 32975,
+                    "stars": 32976,
                     "topics": [
                       "cascade-rcnn",
                       "convnext",
@@ -5443,7 +5443,7 @@
             "open_issues": 781,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18531,
+            "stars": 18533,
             "topics": [
               "ai",
               "airsim",
@@ -6054,7 +6054,7 @@
             "open_issues": 92,
             "owner": "phillipi",
             "repo": "pix2pix",
-            "stars": 10658,
+            "stars": 10659,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -6168,7 +6168,7 @@
             "open_issues": 164,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16206,
+            "stars": 16207,
             "topics": [
               "annotations",
               "classification",
@@ -7679,7 +7679,7 @@
                 "open_issues": 92,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10658,
+                "stars": 10659,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -7947,7 +7947,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T22:17:14Z",
-            "open_issues": 255,
+            "open_issues": 257,
             "owner": "keras-team",
             "repo": "keras",
             "stars": 64348,
@@ -8234,7 +8234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:51.864Z",
+    "last_updated": "2026-10-03T12:00:10.084Z",
     "original_repository_info": {
       "archived": false,
       "description": ":metal: awesome-semantic-segmentation",
