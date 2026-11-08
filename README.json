@@ -744,7 +744,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:59:39.508Z"
@@ -4263,7 +4263,7 @@
                     "open_issues": 1967,
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 33025,
+                    "stars": 33027,
                     "topics": [
                       "cascade-rcnn",
                       "convnext",
@@ -5182,7 +5182,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25274,
+                "stars": 25275,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -5443,7 +5443,7 @@
             "open_issues": 781,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18602,
+            "stars": 18606,
             "topics": [
               "ai",
               "airsim",
@@ -5530,7 +5530,7 @@
             "open_issues": 90,
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
-            "stars": 11797,
+            "stars": 11799,
             "topics": [
               "computer-vision",
               "deeplab-v3-plus",
@@ -6054,7 +6054,7 @@
             "open_issues": 93,
             "owner": "phillipi",
             "repo": "pix2pix",
-            "stars": 10661,
+            "stars": 10662,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -6123,10 +6123,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T21:25:53Z",
-            "open_issues": 596,
+            "open_issues": 597,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 17091,
+            "stars": 17095,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -6168,7 +6168,7 @@
             "open_issues": 178,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16296,
+            "stars": 16299,
             "topics": [
               "annotations",
               "classification",
@@ -7033,7 +7033,7 @@
             "open_issues": 45,
             "owner": "azavea",
             "repo": "raster-vision",
-            "stars": 2245,
+            "stars": 2246,
             "topics": [
               "classification",
               "computer-vision",
@@ -7679,7 +7679,7 @@
                 "open_issues": 93,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10661,
+                "stars": 10662,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -7947,10 +7947,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T21:43:00Z",
-            "open_issues": 283,
+            "open_issues": 286,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64416,
+            "stars": 64417,
             "topics": [
               "data-science",
               "deep-learning",
@@ -7977,7 +7977,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-08-15T10:52:15Z",
-            "open_issues": 48,
+            "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
             "stars": 11192,
@@ -7998,7 +7998,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-08-15T10:52:15Z",
-            "open_issues": 48,
+            "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
             "stars": 11192,
@@ -8234,7 +8234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T13:31:07.618Z",
+    "last_updated": "2026-11-08T13:50:18.882Z",
     "original_repository_info": {
       "archived": false,
       "description": ":metal: awesome-semantic-segmentation",
