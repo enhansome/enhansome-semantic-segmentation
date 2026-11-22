@@ -26,7 +26,7 @@
                     "open_issues": 208,
                     "owner": "zhixuhao",
                     "repo": "unet",
-                    "stars": 4941,
+                    "stars": 4942,
                     "topics": [
                       "keras",
                       "segmentation",
@@ -93,7 +93,7 @@
                     "open_issues": 10,
                     "owner": "LeeJunHyun",
                     "repo": "Image_Segmentation",
-                    "stars": 3108,
+                    "stars": 3109,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:59:39.508Z"
@@ -1097,7 +1097,7 @@
                     "open_issues": 2006,
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20792,
+                    "stars": 20791,
                     "topics": [
                       "mxnet"
                     ]
@@ -3304,7 +3304,7 @@
                     "open_issues": 10,
                     "owner": "LeeJunHyun",
                     "repo": "Image_Segmentation",
-                    "stars": 3108,
+                    "stars": 3109,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:59:39.508Z"
@@ -3332,7 +3332,7 @@
                     "open_issues": 10,
                     "owner": "LeeJunHyun",
                     "repo": "Image_Segmentation",
-                    "stars": 3108,
+                    "stars": 3109,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:59:39.508Z"
@@ -3991,7 +3991,7 @@
                     "open_issues": 44,
                     "owner": "4uiiurz1",
                     "repo": "pytorch-nested-unet",
-                    "stars": 1055,
+                    "stars": 1056,
                     "topics": [
                       "image-segmentation",
                       "pytorch",
@@ -4263,7 +4263,7 @@
                     "open_issues": 1967,
                     "owner": "open-mmlab",
                     "repo": "mmdetection",
-                    "stars": 33047,
+                    "stars": 33051,
                     "topics": [
                       "cascade-rcnn",
                       "convnext",
@@ -5182,7 +5182,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25284,
+                "stars": 25285,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -5374,7 +5374,7 @@
             "open_issues": 58,
             "owner": "chokkan",
             "repo": "crfsuite",
-            "stars": 674,
+            "stars": 675,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:39.508Z"
@@ -5443,7 +5443,7 @@
             "open_issues": 781,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18627,
+            "stars": 18630,
             "topics": [
               "ai",
               "airsim",
@@ -5530,7 +5530,7 @@
             "open_issues": 92,
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
-            "stars": 11813,
+            "stars": 11817,
             "topics": [
               "computer-vision",
               "deeplab-v3-plus",
@@ -6126,7 +6126,7 @@
             "open_issues": 607,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 17183,
+            "stars": 17185,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -6168,7 +6168,7 @@
             "open_issues": 77,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16344,
+            "stars": 16345,
             "topics": [
               "annotations",
               "classification",
@@ -6347,7 +6347,7 @@
             "open_issues": 3,
             "owner": "JunMa11",
             "repo": "SegLossOdyssey",
-            "stars": 4002,
+            "stars": 4003,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:39.508Z"
@@ -6508,7 +6508,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20792,
+                "stars": 20791,
                 "topics": [
                   "mxnet"
                 ]
@@ -7947,10 +7947,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T23:54:36Z",
-            "open_issues": 250,
+            "open_issues": 256,
             "owner": "keras-team",
             "repo": "keras",
-            "stars": 64446,
+            "stars": 64449,
             "topics": [
               "data-science",
               "deep-learning",
@@ -8234,7 +8234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:55:17.505Z",
+    "last_updated": "2026-11-22T14:52:55.292Z",
     "original_repository_info": {
       "archived": false,
       "description": ":metal: awesome-semantic-segmentation",
